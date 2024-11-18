@@ -17,4 +17,6 @@ Product source codes, deployed models and resources
 
 Iphone app release package
 
+The other /aitour project contains the source codes of the app.
+
 
