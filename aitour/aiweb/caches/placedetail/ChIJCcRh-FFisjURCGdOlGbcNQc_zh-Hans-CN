@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "85",
+            "short_name" : "85",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "名都路",
+            "short_name" : "名都路",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "莘庄",
+            "short_name" : "莘庄",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "闵行区",
+            "short_name" : "闵行区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e闵行区\u003c/span\u003e\u003cspan class=\"extended-address\"\u003e莘庄\u003c/span\u003e\u003cspan class=\"street-address\"\u003e名都路85号\u003c/span\u003e",
+      "formatted_address" : "中国上海市闵行区莘庄名都路85号",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.105832,
+            "lng" : 121.388886
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.1071601302915,
+               "lng" : 121.3902404302915
+            },
+            "southwest" : {
+               "lat" : 31.1044621697085,
+               "lng" : 121.3875424697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "7e2a1e01fa498805efd6b600c59de559179763cd",
+      "name" : "闵行春申文化广场",
+      "place_id" : "ChIJCcRh-FFisjURCGdOlGbcNQc",
+      "rating" : 3,
+      "reference" : "CmRRAAAA1JMtyOxAYX3zhzaqJ3TngWRJ-Hn-7nla7plTW9qiSWFL1jghHmcl4emc7kFl8yCmC2BTjOCfS1cqzwcfwBpVCy_v7dMMNQPQAXJ9nXbmevwKQLkq1XkvNJ1OMB6CwjYoEhDnYnyeRgXonfv3S_eWkkhfGhROfMfiQPmb_Ve6ydZotCX9YwgG5A",
+      "reviews" : [
+         {
+            "author_name" : "小埋康娜",
+            "author_url" : "https://www.google.com/maps/contrib/117682845664198262294/reviews",
+            "language" : "zh",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-yxgYW2JM1sE/AAAAAAAAAAI/AAAAAAAAAAA/AGi4gfyjnc769yG6tgrt9z7oP8-18shW5A/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "7个月前",
+            "text" : "一般般",
+            "time" : 1502673232
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=519563665164101384",
+      "utc_offset" : 480,
+      "vicinity" : "闵行区名都路85号"
+   },
+   "status" : "OK"
+}

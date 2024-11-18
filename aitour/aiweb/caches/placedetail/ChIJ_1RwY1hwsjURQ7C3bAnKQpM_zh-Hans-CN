@@ -1,0 +1,73 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "黄浦区",
+            "short_name" : "黄浦区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "外滩",
+            "short_name" : "外滩",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "200000",
+            "short_name" : "200000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e黄浦区\u003c/span\u003e\u003cspan class=\"extended-address\"\u003e外滩\u003c/span\u003e福州路17号b \u003cspan class=\"postal-code\"\u003e邮政编码: 200000\u003c/span\u003e",
+      "formatted_address" : "中国上海市黄浦区外滩福州路17号b 邮政编码: 200000",
+      "formatted_phone_number" : "021 6323 0833",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.235597,
+            "lng" : 121.49046
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.2369459802915,
+               "lng" : 121.4918089802915
+            },
+            "southwest" : {
+               "lat" : 31.2342480197085,
+               "lng" : 121.4891110197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "641bb8808076d74935444c320723e5f43e331449",
+      "international_phone_number" : "+86 21 6323 0833",
+      "name" : "外滩红寨当代艺术画廊",
+      "photos" : [
+         {
+            "height" : 2160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104925050642986159308/photos\"\u003ePanorama 360\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAzTnaGnD7is01Kh5wxIK4Hm0mKTJ-JwtQfPgTrPneP1GQHgE0jT3ZYyjUy82L6XwWNiOpFNguwTT8_yVBOsy2bXPf9sGVA2Gr4E2F4lJF-g5UpVteeLI_jypffvB-tLSiEhA3Dp--r76xL7oFMuJLIFqMGhQXv4B0cP5jsw3xBV9VkvERARSCWg",
+            "width" : 3840
+         }
+      ],
+      "place_id" : "ChIJ_1RwY1hwsjURQ7C3bAnKQpM",
+      "reference" : "CmRSAAAAfs86XqJmdyadS2Noz4w_3MwGZY74RZXap7FfWhRHHYVlf8kMC7GRzdxvG-3C4RqP_nS5TaMlYtPE9lFmUB1ZjwvVdjoNRY95JmSFMjVDWXJdylD57RMSvZRJ7DJyigzaEhAgcJcuAx3mlhDuSo0hFWInGhQYd3gAOu6dwB0nGIoa6TFvYageCg",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=10611265813865803843",
+      "utc_offset" : 480,
+      "vicinity" : "上海市黄浦区福州路17号b"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,58 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "浦东新区",
+            "short_name" : "浦东新区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "200000",
+            "short_name" : "200000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e浦东新区\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e邮政编码: 200000\u003c/span\u003e",
+      "formatted_address" : "中国上海市浦东新区 邮政编码: 200000",
+      "formatted_phone_number" : "021 5878 8743",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.23890700000001,
+            "lng" : 121.511992
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.24025598029151,
+               "lng" : 121.5133409802915
+            },
+            "southwest" : {
+               "lat" : 31.23755801970851,
+               "lng" : 121.5106430197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "16def87f3684bad4a5fcaa358768bdd8484a4c69",
+      "international_phone_number" : "+86 21 5878 8743",
+      "name" : "银行博物馆",
+      "place_id" : "ChIJDeiO5eBwsjURMbzJys1-BwY",
+      "reference" : "CmRRAAAAmiZrnBHOr8KeDmlwQHYcsu8k6-0MfvhHd99yH5qxGAMq8WJ9FQoK676bGJ1ajwHyjGcEueB2QT5KyAmfdU5UPC9WQ_-hWUwL9BW7VURDw91WF4X6EC32-PagoWJZHhrXEhBnCAZrLh0dNWL5240Us_ViGhR5vS5fbvIKLlveCcP81uSP3EmLtg",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=434455311400156209",
+      "utc_offset" : 480,
+      "vicinity" : "China"
+   },
+   "status" : "OK"
+}

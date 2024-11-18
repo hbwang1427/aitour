@@ -1,0 +1,79 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "3楼",
+            "short_name" : "3楼",
+            "types" : [ "subpremise" ]
+         },
+         {
+            "long_name" : "3号",
+            "short_name" : "3号",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "中山东一路",
+            "short_name" : "中山东一路",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "外滩",
+            "short_name" : "外滩",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "黄浦区",
+            "short_name" : "黄浦区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "200002",
+            "short_name" : "200002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e黄浦区\u003c/span\u003e\u003cspan class=\"extended-address\"\u003e外滩\u003c/span\u003e\u003cspan class=\"street-address\"\u003e中山东一路3号\u003c/span\u003e3楼 \u003cspan class=\"postal-code\"\u003e邮政编码: 200002\u003c/span\u003e",
+      "formatted_address" : "中国上海市黄浦区外滩中山东一路3号3楼 邮政编码: 200002",
+      "formatted_phone_number" : "021 6323 3355",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.2342451,
+            "lng" : 121.4910973
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.2356178802915,
+               "lng" : 121.4924989802915
+            },
+            "southwest" : {
+               "lat" : 31.2329199197085,
+               "lng" : 121.4898010197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id" : "99a4087a3e1a8092c8ab63efb669529098c5b299",
+      "international_phone_number" : "+86 21 6323 3355",
+      "name" : "沪申画廊",
+      "place_id" : "ChIJqYnfC-xbAjQRzi4BAaS-05c",
+      "reference" : "CmRSAAAAnb6w8gHcFCcsHHlIjVmJ_XlX7K5CeBj8NMRXEINV1Wy1R1DCl6FymtWTglEg_p_d2BjBgMR0LH0jkRaRu_0WebbjQQz-5o4_zFNU1B2RZMN1UDiCAw_rL8H8owEuVLVFEhAv1oY9ifvU54joaEFYqqVOGhQYj5oHvHalS4akq8Pk4F48hzxQdw",
+      "scope" : "GOOGLE",
+      "types" : [ "art_gallery", "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=10940297531413835470",
+      "utc_offset" : 480,
+      "vicinity" : "黄浦区外滩中山东一路3号",
+      "website" : "http://www.shanghaigalleryofart.com/"
+   },
+   "status" : "OK"
+}

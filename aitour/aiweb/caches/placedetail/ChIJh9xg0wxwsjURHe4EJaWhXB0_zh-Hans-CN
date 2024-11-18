@@ -1,0 +1,115 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "淮海路中段",
+            "short_name" : "淮海路中段",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "黄浦区",
+            "short_name" : "黄浦区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "200000",
+            "short_name" : "200000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e黄浦区\u003c/span\u003e\u003cspan class=\"extended-address\"\u003e淮海路中段\u003c/span\u003e上海市卢湾区淮海中路567弄1-6号 \u003cspan class=\"postal-code\"\u003e邮政编码: 200000\u003c/span\u003e",
+      "formatted_address" : "中国上海市黄浦区淮海路中段上海市卢湾区淮海中路567弄1-6号 邮政编码: 200000",
+      "formatted_phone_number" : "021 5382 3370",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.22036200000001,
+            "lng" : 121.46829
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.2217109802915,
+               "lng" : 121.4696389802915
+            },
+            "southwest" : {
+               "lat" : 31.21901301970851,
+               "lng" : 121.4669410197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "54d208b55aba59ea8232d500d307a483b5738f10",
+      "international_phone_number" : "+86 21 5382 3370",
+      "name" : "中国社会主义青年团中央机关旧址纪念馆",
+      "photos" : [
+         {
+            "height" : 2340,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108115375192877204340/photos\"\u003eAntony Yip\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA1ezgJ2CbJH4co2vu_iXca4EfH8__TK3lDO2EGIKRondrk-aDNbpHwH2VXBZqU60kuMqKk66tqQS5Qe6yo9qenYJW2DNLhmwrH9OQfD7IO2yqhxFXa9vBSAeMqg_6BsHQEhBXzACD91_bY-H091xCBXAQGhTwnCX11Z1A8UXkFjyytAiY2nfzJw",
+            "width" : 4160
+         },
+         {
+            "height" : 2340,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108115375192877204340/photos\"\u003eAntony Yip\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA9rPqA5FEGbTRx9ivRUOugjPowyQOovIbvU5z98QIg_7Pg5KinKvI2BPv1W0r_d-eTaSiDCFskkU_u2jRWlzGWkei3F0P5lmcWH9vbKNjccRdhALiAQbUt9rLtQSvoNgAEhA7bWVEUmW-R7_TPdhKgBXSGhQnB29TOy9l5o-ToHVntWwwYSyIPQ",
+            "width" : 4160
+         }
+      ],
+      "place_id" : "ChIJh9xg0wxwsjURHe4EJaWhXB0",
+      "rating" : 4.7,
+      "reference" : "CmRRAAAAGsfxbafjxdCwdSQimwEV4ONn2KcA-7rZiq6DXAy79i-qRsOJah-alNqoseywCEpmcu0ClelgEwsj0Y9CL-BBpbE62P7fLZ2DB24BWU2-rg6SMckLnJPD5-1aiXJNHfJtEhAqil5rFjFW0Cp3L1jdq1CNGhS-0kcEHsgaQf7K5WFlvzkkNjzAqQ",
+      "reviews" : [
+         {
+            "author_name" : "沈鹰",
+            "author_url" : "https://www.google.com/maps/contrib/114487709493479770462/reviews",
+            "language" : "zh",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-ZK14n12ZBG4/AAAAAAAAAAI/AAAAAAAAILE/Y68ct3Fpg4o/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "2年前",
+            "text" : "有参观时间限制",
+            "time" : 1451313118
+         },
+         {
+            "author_name" : "Antony Yip",
+            "author_url" : "https://www.google.com/maps/contrib/108115375192877204340/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-djANGSrprQs/AAAAAAAAAAI/AAAAAAAAHdk/l_Pc2y3YFE4/s128-c0x00000000-cc-rp-mo-ba6/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "1年前",
+            "text" : "At the center of downtown",
+            "time" : 1466061674
+         },
+         {
+            "author_name" : "TOM Chen",
+            "author_url" : "https://www.google.com/maps/contrib/100271323228183044448/reviews",
+            "language" : "zh",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-q_dA1XnDQUY/AAAAAAAAAAI/AAAAAAAABSg/hFWenmnGko4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "6年前",
+            "text" : "",
+            "time" : 1331514204
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=2115743655620046365",
+      "utc_offset" : 480,
+      "vicinity" : "上海市卢湾区淮海中路567弄1-6号",
+      "website" : "http://www.sh-aiguo.gov.cn/node2/node4/node6/userobject1ai445.html"
+   },
+   "status" : "OK"
+}

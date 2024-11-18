@@ -1,0 +1,298 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "206",
+            "short_name" : "206",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Washington Street",
+            "short_name" : "Washington St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Downtown",
+            "short_name" : "Downtown",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Boston",
+            "short_name" : "Boston",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Suffolk County",
+            "short_name" : "Suffolk County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Massachusetts",
+            "short_name" : "MA",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "02109",
+            "short_name" : "02109",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e206 Washington St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBoston\u003c/span\u003e, \u003cspan class=\"region\"\u003eMA\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e02109\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "206 Washington St, Boston, MA 02109, USA",
+      "formatted_phone_number" : "(617) 720-1713",
+      "geometry" : {
+         "location" : {
+            "lat" : 42.3587352,
+            "lng" : -71.05745399999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 42.3600717302915,
+               "lng" : -71.05599786970849
+            },
+            "southwest" : {
+               "lat" : 42.3573737697085,
+               "lng" : -71.0586958302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "b5ba9b9f611bc6b6262dcc5d93c0ecfbea96e585",
+      "international_phone_number" : "+1 617-720-1713",
+      "name" : "Old State House",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+            "Wednesday: 9:00 AM – 5:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: 9:00 AM – 5:00 PM",
+            "Sunday: 9:00 AM – 5:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1335,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105992852193053170529/photos\"\u003eJonas\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAnxxSR46tk-PwtGeBCz9RBAwH9nivog0p_FCJFFrbG4k3kaippw3HT60RArA3MCrGSXvq7PVdLedo_LW1jta1m69DFG9ZWZChj7D3NIqrarwrmQ0CJ5tM9T_RTZlYOY_6EhCavR_OayLx5hd5CSeI01rnGhTqphHJ9EmsNbrmPD-HugkD5h4eBA",
+            "width" : 2048
+         },
+         {
+            "height" : 2988,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116915041441403037997/photos\"\u003eZeke Barragan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAwTHn-ugf_tYBJa-pO8_HS2-HjSrdCr6e33lhyaFpp8M4A3GCpzV6yfm442wDEKaHkuUoW4701DElvSkh6qvuKJFswS5upa66w3h4IU25VLuQZowlZIy5aIb7b1fhwqPhEhAw4gkg-pDGhXpKrqWN8Yc9GhSUEC78am23Imx_wx9kQSNyb40yOg",
+            "width" : 5312
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115658458952446766099/photos\"\u003eJosh Rice\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAK7kF8StArnzwJuqdzfUJ9OO6c55lRwViax8NH9D_1dn063QMCp4ShDI5N1LsiL252oCSZaQpemxcTObB9SnBSJ7lQ9l2jXx6UUipqaYtcwVQKPDDv4SXHoM4vfA1rfabEhA_z00KtVuLdbFjxf1xkgLCGhQPM2sqsAkNrPDWU7Temc_iYY-cjA",
+            "width" : 4032
+         },
+         {
+            "height" : 1824,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113815392849087130851/photos\"\u003eG Aquino\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAbnjMzTWkq_5SNxzL9GlkN-UBCQPsr4qPXifyrLQPsd1l5bRvmrgpSZhP_W7sDNFidQCknejhlj2I5SC8N2uJE8XZ-n3I5lIwMsPcOGk7kGl_1TZsXi5jzmfQ_AeSpnDmEhD9vse8hcxexI3Y5p74v0gXGhQyEvI91gAbaJZB2VQLdzn79Ue8KA",
+            "width" : 2736
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105104302160367799063/photos\"\u003eJohn Maloney\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRZAAAAonTywzpEYCBNQaW6Bs4cTiquqZusG9x3x9IGeuT5ZRVxS3XU-MYiHUsZ8VW5Dj_8vYXGtAHUJnofUYD7osJ1G1dtmwQpl7Nbx-BG_dySfsaMN6X5vRE0eBGObII9Mk86EhDdUrkj8mi9NkzC3lUiVVgRGhSWqIb_CkxxASolkHX9OqaMSsycjQ",
+            "width" : 4928
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102157018861643006014/photos\"\u003eIsa\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAevwGdkrzxUntSQx5O21zPfgUIJTZvU6fkxCjmKSLUFahxGRXvkK7JXbj9VrmnTzUCTlVhzno0bP3x76N0kKtqAx4n6bLYlUTJv11FOWszRxPmGsq_8l3xZCeglZkgqtBEhAcbn6Wcj7XCsst9lEZP_IGGhQcQUzeCsIZ6KonQEYJxSxrD36L9g",
+            "width" : 2048
+         },
+         {
+            "height" : 2268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104039696017380661068/photos\"\u003eMike Rosinko\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA2ZdoAOU-r4LaH3FhSJYqmg12FTMT85zwo70ljl5z6gLOrQe8LqF5ZCMNNuc00hntzNWEZMIbQJWqZcP8kTIizPPj_Qim908wGdAM9HRtJWJ6ay4FpVgbrHBSwe7B9K5gEhCpnmE0lguoeUwboQOdrE9cGhRoShJ-6uXcahlZdJAl2p0PkLCGEQ",
+            "width" : 4032
+         },
+         {
+            "height" : 2432,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114763932644616390301/photos\"\u003eCharles Clark\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAkD2gVHzQiUc6v6Q5809tNFTVsUMS9y47kxFXVxcrBWr9T653EYZoee_wRVPIY8HnMIZvj4KI4kjCGMAbX1xcXTVrBKmm6wFBSuLVhzE5kXronIMt4OjldSIxf5ELbBLFEhB7mESdlctgqqlzWsd357PgGhTdUjpFsGFCDEN0DOPEkgpP9_l7Kw",
+            "width" : 4320
+         },
+         {
+            "height" : 1824,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113815392849087130851/photos\"\u003eG Aquino\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAADeraUR1WLWfMDfTxAMtUIFiqgxMy8YWVK7xv6W32FBbUFxvIL_qRO2sJhBEDuNPiWNeE91U9g30nb1OZE2cAUkO_0jhOhLgQ_hCLRREVpOtVOLHYGln_VVbHzpSbfjLPEhCof-CYMKpWqgINlm6UuklrGhQLbhRisEp6WFYcBDAj_XR2xHKEGg",
+            "width" : 2736
+         },
+         {
+            "height" : 1824,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113815392849087130851/photos\"\u003eG Aquino\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAoGHWHhTNmsWyMd04kY1DLbE2oqvRgXgavnxvIATN9CozfRadNcQrMwErtp1UyTgbalTK78OO6yU1r1jA4lQX5vg_jplbDVhzcH6PCIIpB_zjY2mh9r0uLDGXJpBEiJv2EhApABnjacTzKe00MHxjXdeoGhTXHoDJEEBEfibdNtsP_77BU3MEMQ",
+            "width" : 2736
+         }
+      ],
+      "place_id" : "ChIJh-tZaIRw44kR140lhfNrc_g",
+      "rating" : 4.5,
+      "reference" : "CmRSAAAAtqM7POgSLmbSihXN_NMjUqBrJWI2nTCxlCh3SrSScQSgZ2AV-_ZhgPI0SUTO4gcANgRwkTSOwVhsQQ4UYnPMrWkop1nprkQ2C_1nVuG2R_lm6de2tYBEOsNwlcAhxdalEhAV8Dmdt70k0VzT2Y8-WewtGhSVuH9KFxLHc29b1bnNZ0KyhBnuzQ",
+      "reviews" : [
+         {
+            "author_name" : "G Aquino",
+            "author_url" : "https://www.google.com/maps/contrib/113815392849087130851/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-jEHLTU9R4Ws/AAAAAAAAAAI/AAAAAAAEHiE/V520DG1ARf8/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "This was the ninth and one of the most significant sites we visited along Boston's Freedom Trail. Be sure to visit the museum inside the building to learn about significant events in the city's history that took place here, such as the announcement of US independence from Britain from the building's balcony. The museum also describes past and present preservation initiatives, including the effort to spare the building from demolition. The museum is small and can be visited in an hour or less.\n\nFun fact: There is a subway station directly underneath the building, accessible via stairs adjacent to the museum entrance. The building had to be reinforced while the subway tunnel was being excavated.",
+            "time" : 1515625709
+         },
+         {
+            "author_name" : "Frankie Mendoza",
+            "author_url" : "https://www.google.com/maps/contrib/113354458880150291740/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-jdotsZLWJXw/AAAAAAAAAAI/AAAAAAAAAAA/ACLGyWCZREKtVBuEUPp7WWg7x_tBoChYdg/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "a week ago",
+            "text" : "Very interesting place. This was part of the Go Boston tour we took. Very simple place that shows Boston beginings. There are some interactive presentations.",
+            "time" : 1521999054
+         },
+         {
+            "author_name" : "James Doyle",
+            "author_url" : "https://www.google.com/maps/contrib/107302098496199688251/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-U1uo5VYYEOI/AAAAAAAAAAI/AAAAAAAACZg/bfZHUnUGMyo/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "Excellent, but often overlooked, stop on Boston's Freedom Trail. Beautiful museum and professional staff. Kid-friendly exhibits. In the summer, costumed historical reenactors serve as guides.",
+            "time" : 1517168205
+         },
+         {
+            "author_name" : "Emily Brown",
+            "author_url" : "https://www.google.com/maps/contrib/107867630630353085313/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-z6DKgYXlb_g/AAAAAAAAAAI/AAAAAAAABX0/LjODJjfBnDk/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "3 months ago",
+            "text" : "I stayed for one of the last tours of the day.  It was great to hear the history of this place in 25 minutes.  Every should stop and see John Hancock's jacket as it won't be there for much longer!",
+            "time" : 1512776136
+         },
+         {
+            "author_name" : "Beny Jackson",
+            "author_url" : "https://www.google.com/maps/contrib/111177214989513874707/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-qFoMI2AmVYg/AAAAAAAAAAI/AAAAAAAAATY/emqtGTaXnrY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "Still standing amongst its towering neighbors, this historically significant building is a visual prompt to remind us all of the humble beginnings of this great nation.",
+            "time" : 1519177226
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=17902771637382909399",
+      "utc_offset" : -240,
+      "vicinity" : "206 Washington Street, Boston",
+      "website" : "http://www.bostonhistory.org/"
+   },
+   "status" : "OK"
+}

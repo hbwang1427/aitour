@@ -1,0 +1,22 @@
+const PORCELAIN_USER_LABELS = {
+1: 'Not China 非瓷器',
+2: 'Contemporary 现代瓷器', 
+3: 'Jianguo 1950、60、70年代瓷器', 
+4: 'Republic 民国瓷器', 
+5: 'Early Qing-Shunzhi 清早期或顺治瓷器', 
+6: 'Kangxi(Qing) 清康熙瓷器', 
+7: 'Yongzheng(Qing) 清雍正瓷器',
+8: 'Qianlong(Qing) 清乾隆瓷器', 
+9: 'Jiaqing(Qing) 清嘉庆瓷器',
+10: 'Daoguang(Qing) 清道光瓷器',
+11: 'Xianfeng(Qing) 清咸丰瓷器',
+12: 'Tongzhi(Qing) 清同治瓷器', 
+13: 'Guangxu or Lateqing(Qing) 光绪或晚清瓷器', 
+14: 'Mid late Qing 清中晚期瓷器', 
+15: 'Mid qing(Qing) 清中期瓷器', 
+16: 'Early Ming 明代早期',
+17: 'Mid Ming 明代中期',
+18: 'Late Ming 明代晚期', 
+19: 'Europe 欧洲瓷器', 
+20: 'Japan 日本瓷器' 
+}; 

@@ -1,0 +1,9 @@
+[grpc]
+bind = "[::]:50051"
+cert = "../certs/cert.pem"
+key = "../certs/key.pem"
+traceenable=true
+tracebind = "[::]:50052"
+
+[web]
+host = "http://aitour.ml:8081"

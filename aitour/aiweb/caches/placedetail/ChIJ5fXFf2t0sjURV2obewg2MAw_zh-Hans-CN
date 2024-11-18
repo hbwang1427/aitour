@@ -1,0 +1,118 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "杨浦区",
+            "short_name" : "杨浦区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e杨浦区\u003c/span\u003e",
+      "formatted_address" : "中国上海市杨浦区",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.295016,
+            "lng" : 121.554187
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.2963649802915,
+               "lng" : 121.5555359802915
+            },
+            "southwest" : {
+               "lat" : 31.2936670197085,
+               "lng" : 121.5528380197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "8d90fdf7f6a52ccfed12cd9888167f7ecd069f85",
+      "name" : "上海理工大学图书馆",
+      "photos" : [
+         {
+            "height" : 900,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112504712836667423564/photos\"\u003ekent clark\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAABLDzQv8qYLTnoHS7R6neaUMpyXBRWdrpGPmWRBVkJWOtnGBb99Uz53f2-tggjxVXGs85MLu4NFVjnDSRIn6OC-1HMtEjo4iVwJ03vUO9aZr-2E3Y5sq5_E3FNuR2TPxDEhBvmclBxAbYgJShtDKYzuk3GhSh2iMw9Oz5vdnN3oaaiMcKbymv_A",
+            "width" : 1600
+         },
+         {
+            "height" : 1600,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112504712836667423564/photos\"\u003ekent clark\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAANXouhMjClDXyU3mP13P5FuaTE5wyJIO7ow-NcbtsNC5JXEXj5cXPhsu8TurYA3R90XVrFyxxymOJB38TG_FQ8FCzh2R2xwwly8sTziKYaGguioBc6xMmlB0Np6xPmhQ7EhC2YN3CwkbxHwu_piv5nw0PGhR9e8KBdhC2qvPKHGqvtt7EBHR9Dw",
+            "width" : 900
+         }
+      ],
+      "place_id" : "ChIJ5fXFf2t0sjURV2obewg2MAw",
+      "rating" : 5,
+      "reference" : "CmRRAAAAGgETPDqQaEodid3_JKSPiBR-Ni8lp5JBK2UxFhQI48XA8G-RH_1IOUARpYbygCLbyvkSldP1xKxJNsUojpTyJGVumUA67NPvuv9iJ-sYuUg_CwMSPC5wiToc5zj_gCBREhAqkx6y6bKg9Hpy9n8hAkW9GhQx6-vuychUz4rXQdfdRffolYq0WA",
+      "reviews" : [
+         {
+            "author_name" : "Cabala Feng",
+            "author_url" : "https://www.google.com/maps/contrib/110656711945944605590/reviews",
+            "language" : "zh",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-1uw_EDNjx6M/AAAAAAAAAAI/AAAAAAACfAg/2CyEmD0qroU/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "5年前",
+            "text" : "共8层。常用层为5楼及以上。",
+            "time" : 1338440414
+         },
+         {
+            "author_name" : "kent clark",
+            "author_url" : "https://www.google.com/maps/contrib/112504712836667423564/reviews",
+            "language" : "zh",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-hODz-Ug8n58/AAAAAAAAAAI/AAAAAAAAALQ/r0E8ir1GMKw/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "5年前",
+            "text" : "",
+            "time" : 1347264598
+         },
+         {
+            "author_name" : "Google 用户",
+            "language" : "zh",
+            "rating" : 5,
+            "relative_time_description" : "5年前",
+            "text" : "",
+            "time" : 1343493013
+         },
+         {
+            "author_name" : "Google 用户",
+            "language" : "zh",
+            "rating" : 5,
+            "relative_time_description" : "5年前",
+            "text" : "",
+            "time" : 1333971137
+         },
+         {
+            "author_name" : "Yorke Wang",
+            "author_url" : "https://www.google.com/maps/contrib/100525224318228061911/reviews",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/--GzXUEwkanM/AAAAAAAAAAI/AAAAAAAAGCA/S_yA7xfpY_Y/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "5年前",
+            "text" : "",
+            "time" : 1338737260
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=878261337390279255",
+      "utc_offset" : 480,
+      "vicinity" : "China",
+      "website" : "http://library.usst.edu.cn/"
+   },
+   "status" : "OK"
+}

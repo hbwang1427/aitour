@@ -1,0 +1,71 @@
+{
+   "html_attributions" : [
+      "商家信息提供者：\u003ca href=\"http://www.openrice.com/\"\u003e\u003c/a\u003eOpenRice"
+   ],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1197号",
+            "short_name" : "1197号",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "真南路",
+            "short_name" : "真南路",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "普陀区",
+            "short_name" : "普陀区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "200331",
+            "short_name" : "200331",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e普陀区\u003c/span\u003e\u003cspan class=\"street-address\"\u003e真南路1197号\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e邮政编码: 200331\u003c/span\u003e",
+      "formatted_address" : "中国上海市普陀区真南路1197号 邮政编码: 200331",
+      "formatted_phone_number" : "021 6626 6007",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.2716721,
+            "lng" : 121.3757908
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.2730278302915,
+               "lng" : 121.3771405302915
+            },
+            "southwest" : {
+               "lat" : 31.2703298697085,
+               "lng" : 121.3744425697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "0edca80a617a483cc76fbc94ed561cd8015f2047",
+      "international_phone_number" : "+86 21 6626 6007",
+      "name" : "六千馆",
+      "place_id" : "ChIJ05KyYSJvsjURZ0WHuyitKgI",
+      "reference" : "CmRRAAAA0lUFh0bQGZqNjRy9BxeQF8BjlFoR5IR9J6w8tJ65hw0ZWHvsO2F_QslKZ8dCCVVi_6wUtx4aQVaD5qay4Ky-Tm3ZIILZAg-pjIHhWlqK938XXXTHC485-53rLygJHJloEhCtIFyPGFGAgIoLpSbMm-XXGhTSJYhFsH5maSF6T7oPm4EN1bz4Jg",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=156127527554205031",
+      "utc_offset" : 480,
+      "vicinity" : "普陀区真南路1197号",
+      "website" : "http://www.meituan.com/brand/liuqianguan-27363"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,299 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Building 22",
+            "short_name" : "Building 22",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "Charlestown Navy Yard",
+            "short_name" : "Charlestown Navy Yard",
+            "types" : [ "premise" ]
+         },
+         {
+            "long_name" : "Thompson Square / Bunker Hill",
+            "short_name" : "Thompson Square / Bunker Hill",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Charlestown",
+            "short_name" : "Charlestown",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Suffolk County",
+            "short_name" : "Suffolk County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Massachusetts",
+            "short_name" : "MA",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "02129",
+            "short_name" : "02129",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"extended-address\"\u003eBuilding 22, Charlestown Navy Yard\u003c/span\u003e, \u003cspan class=\"locality\"\u003eCharlestown\u003c/span\u003e, \u003cspan class=\"region\"\u003eMA\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e02129\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "Building 22, Charlestown Navy Yard, Charlestown, MA 02129, USA",
+      "formatted_phone_number" : "(617) 426-1812",
+      "geometry" : {
+         "location" : {
+            "lat" : 42.3739796,
+            "lng" : -71.05542389999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 42.3752618802915,
+               "lng" : -71.05428216970849
+            },
+            "southwest" : {
+               "lat" : 42.3725639197085,
+               "lng" : -71.05698013029149
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "5677ee7f000c75b2aa63cbd28b6875a9a1c107b8",
+      "international_phone_number" : "+1 617-426-1812",
+      "name" : "USS Constitution Museum",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1800"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 AM – 6:00 PM",
+            "Tuesday: 9:00 AM – 6:00 PM",
+            "Wednesday: 9:00 AM – 6:00 PM",
+            "Thursday: 9:00 AM – 6:00 PM",
+            "Friday: 9:00 AM – 6:00 PM",
+            "Saturday: 9:00 AM – 6:00 PM",
+            "Sunday: 9:00 AM – 6:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 3168,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105276307050181648322/photos\"\u003eMichael Bolton\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAdvnrYKSGLlWIew5y8zR_KlTrhQ1jtx81sMXPDJUrERxjw_4COnHWGPun347GMWBYIrmJG-tQVKnQ6Mm4OzVZ8XC4-q7wwpOMgbMbn-2u9D5C9rl2rfcqSROM3a7foqodEhCMOJYczcExeeDf0RF9aOghGhSFj9pn7wQlPO4DuXV3w9JLca-n-g",
+            "width" : 4752
+         },
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111182323867183338104/photos\"\u003eAmeet Gohil\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA8ZiTbHqBWLRqbgFWqNgV8Ne2Fhm1fKBK2gUwMbkSyWwa_iaeziTyDvn_Wp1Cyg9oNkM751VxqWJIgqqoxoFLEgU09kUeZpPZxaVzjk02ElxU5CaucLsjmFhazBnNMbkXEhCIdaeIApMxLN9FBXRpSKaQGhRrXHE5f4HUeTXguVMms6-UmhCyBg",
+            "width" : 4608
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113152206186062870704/photos\"\u003eAbhilash Kurumali\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAvUlTl9frjtBH2No_x5YSPYhQW1jfBiEi6WwMGgWIdN2pJi2ycln8UqbvHmUhJsYme0yWy_KqshcQkUYjo5UdOiE6BhWTUv7V9n82spKibSIyW1dbHUtaAC8zUVGjS5IGEhC28xSwQXfiId1y8TN_Nql5GhTnc1_aJEzTS5-TRGZ-LsSBP5b6nA",
+            "width" : 4032
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110296367778972982094/photos\"\u003eDanny\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA-6_Dl1BVB4R7XKdvIigbkf0ObZn8LAUNuFBNJsrE-99-q6KGTlXvGStXJKVv_zMQe4zhrrRvRbNUL-8CpNaFu6fqU48GyPO87i67D0IfLhIp02AAXE7ZqvfJsRFp_EevEhAksp99RrWaKNKoHdQYIAyqGhS0woUwK0zZ6bhxeCvYUyCN8wXUDA",
+            "width" : 3264
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116199336059841298304/photos\"\u003eKenneth Spry\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAYcrYaE5psA-35hkXaDPw3ZE7Gy37BcPlW_opJdji3dUp8jWxoOS4GZBPs7Pa9BpZiulGa028ciNjk61HHc01dh-jH3z0vpmmJcr0Fq3UPgbjh-TmenEIi1Z9eCNrHvgNEhCH3Ye38jgRRe3goiUq5I_hGhRoIdilSlhv0WpuIbWA25xtKPc5ag",
+            "width" : 4032
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103682394328316146606/photos\"\u003eVarghese Jose\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAARwayy7beMdyGiXQK5eWj4zIbTuFTX4JWiFbXDkssBZM48Uq-PwVqMju74B4V2PR4R8cckDG7-R3skLZzAINPC7UwL9v1HL6THCl6njwH_RPTyYPIWDi0eoICMzzwYXNMEhCxktoM2f2U4KNSD3s2_AVHGhSER7-NOVsuO3ZW-o48w6lbp_T21A",
+            "width" : 3264
+         },
+         {
+            "height" : 1824,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113815392849087130851/photos\"\u003eG Aquino\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAATGxJgB67Dix7oB9mBKaKt0oYkXDg3opw1qcQajMm3A9fMxqTYV5NurOnVJEblh2c8_xu0arJSrbWr_IsMpD-Q1iOveS7XBMdys8N40fKEZ8vBfymhCQI6QlWNjDw_XkAEhDBhEfLYWviJzyHynkRHA2eGhRJrfSN2mhwQro2Zrd9lVnFfw7isA",
+            "width" : 2736
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113559885567535265250/photos\"\u003eDaniel Choi\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA_Ds1oMQh37AEmgq7oQj8kJubVhK3w4hchRoMbR85MnI-AKZpxEBWuf_-bD7BSgUZx8p2S5CvVIjfhIZJNvPFG4GQXEVGxGD-dCK59_wK6pKHT0LHVmcLsG7gfjWHPZT-EhBnIdrzmx-1WQp-bdnjxWknGhTntX63oAhq0igGp3mUqacIlJRDgw",
+            "width" : 3264
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115661892431920847517/photos\"\u003ePete Donahoo\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAXMUSjQR5H8MBxIRlAXGJHZMm9nChzhZ9qt_Zfe-4DVO2Bq6ofq6zGmjVkPhHR1uaNWuk9jb6WPVyz2gHbgUJjc4ucOO5KBMm7xyoINASme-QvePudYxL8H2nUK7M6et2EhDh2OovQQt5aSKzHMyNnuGCGhQACmxZlqhm3T9oJ8l4qrZokWJKDA",
+            "width" : 2048
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117113169030791337218/photos\"\u003eMichael Ferry\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAuTadJKl-KVuwmw8j4_cPNDk8A6T4nNvjkHucvamBQB-4lsxdOcJwdWSzjK9NbkswPsXy90Upg_v9byYfxwcTLQa6-CaVeUR-G0PJ9w__sJW4hK5T2CQ9gJLEo-hJ-BF1EhAMd2vGSgvd0obmdoWaVsWgGhRHG5T7CABqI2LnE8MW470qqwdQ_w",
+            "width" : 3264
+         }
+      ],
+      "place_id" : "ChIJOU-Kd_Rw44kRpQxHRXAFwqU",
+      "price_level" : 0,
+      "rating" : 4.5,
+      "reference" : "CmRSAAAABqyBW6r9FYBSw4_seQgKX3Vao7_h36Eaz3FOC5pzr_vEwW7tlP2p0Yol3bIVcU4CWRHqaBqc9cRSBfn26wOZPBO__04cwYPxiSk3NJxkyev3eGrFOFgsGKysu7znSguAEhDc5q33Gmf4EsaorV6wMSG7GhS2lENxZnEY3zvpzZlWRgrfqDyoLw",
+      "reviews" : [
+         {
+            "author_name" : "Beny Jackson",
+            "author_url" : "https://www.google.com/maps/contrib/111177214989513874707/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-qFoMI2AmVYg/AAAAAAAAAAI/AAAAAAAAATY/emqtGTaXnrY/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "This is another must do if you’re going to do the Freedom Trail. What’s not to like? There’s a nice little museum before going out to the ship. There are real Navy personnel who can give you insights and history about the ship. Finally, the ship itself is something to behold. It has been restored extremely well",
+            "time" : 1519110618
+         },
+         {
+            "author_name" : "Clarence Leblanc",
+            "author_url" : "https://www.google.com/maps/contrib/106262272548888232805/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-3MZ35AZs5w8/AAAAAAAAAAI/AAAAAAAAAAA/ACLGyWCi_Etuq10EOXqa2OzFVHsw63Exlg/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "3 weeks ago",
+            "text" : "Our less costly and most interesting place we visited on our last trip in Boston. Free access to the ship and a little museum, comprehensive guide on the tour and very interesting stories about this piece of history.\n\nMake sure to have all people IDs, cause it's on a Navy base so you'll be asked to pass under metal detector/x-ray scan.\n\nThe ship visit can be difficult for very young children, access on and off the ship and to the lower decks are quite steep and can be hard to climb for very young sailors ;)",
+            "time" : 1520509462
+         },
+         {
+            "author_name" : "G Aquino",
+            "author_url" : "https://www.google.com/maps/contrib/113815392849087130851/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-jEHLTU9R4Ws/AAAAAAAAAAI/AAAAAAAEHiE/V520DG1ARf8/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2 months ago",
+            "text" : "Very informative! Learned so much about the history and significance of the famed warship and why it's such a national treasure. It's great that it has survived all these years and preserved for future generations. The museum also lets visitors experience what it was like for personnel of various ranks to work in the warship in its heyday and discusses their motivations for enlisting.\n\nThe exhibition is quite comprehensive. I'd say allot two hours to see everything at a comfortable pace. It's pay-as-you-wish all the time, with $5 to $10 as the the suggested donation.\n\nWe arrived from downtown Boston via the Charlestown Ferry. From the Charlestown ferry station, it's about a 10-minute walk to the museum.",
+            "time" : 1515636736
+         },
+         {
+            "author_name" : "Jessica Buker-Vincent",
+            "author_url" : "https://www.google.com/maps/contrib/105376650118598412136/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-ATvoY8aG4Lc/AAAAAAAAAAI/AAAAAAAAAAA/ACLGyWCgyLz8kApsAvgrDyOoZBbXsxOw9A/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "4 weeks ago",
+            "text" : "Two museums and the ship in one afternoon,  the whole experience was great. The museum holdings were phenomenal, there's a great balance of what's geared to children (and 30 and 40 something children) and adults alike.",
+            "time" : 1520440590
+         },
+         {
+            "author_name" : "Daniel Haller",
+            "author_url" : "https://www.google.com/maps/contrib/109777018336443723368/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-I2MtYVmuwb8/AAAAAAAAAAI/AAAAAAAAGNU/bqz7FtxElXA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "4 weeks ago",
+            "text" : "Very cool museum. A lot of hands on exhibits for kids. Does a great job of showing what it was like to serve on the Constitution during that time period",
+            "time" : 1520434674
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=11944115141496736933",
+      "utc_offset" : -240,
+      "vicinity" : "Building 22, Charlestown Navy Yard, Charlestown",
+      "website" : "https://ussconstitutionmuseum.org/"
+   },
+   "status" : "OK"
+}

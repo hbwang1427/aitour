@@ -1,0 +1,67 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "308",
+            "short_name" : "308",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "虹漕南路",
+            "short_name" : "虹漕南路",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "徐汇区",
+            "short_name" : "徐汇区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "200233",
+            "short_name" : "200233",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e徐汇区\u003c/span\u003e\u003cspan class=\"street-address\"\u003e虹漕南路308号\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e邮政编码: 200233\u003c/span\u003e",
+      "formatted_address" : "中国上海市徐汇区虹漕南路308号 邮政编码: 200233",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.1570849,
+            "lng" : 121.4136162
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.15844433029149,
+               "lng" : 121.4150397802915
+            },
+            "southwest" : {
+               "lat" : 31.1557463697085,
+               "lng" : 121.4123418197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "0972f5095693dfcfcd6fe1ca2a5fc8845ad6e041",
+      "name" : "徐汇青少年活动中心",
+      "place_id" : "ChIJPULcXJBksjURNgpi39sGHW0",
+      "reference" : "CmRRAAAA3jy0vhiXxbnPD2d6Dk3EOalj-wx6IPW_SMuoK0AfjckHXafLaeMrgYTJEQWfeEpSpVT8elcGCUN-3AuDkTzhm3EegTHMC_TmLi_GBvDyhbBX6HgkO1eaUQJXIIstahroEhBbu3z0Xz07DrUbK6-4ftz9GhSATqH-ZN5BNY6aXTk59VcPBXchsw",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7862448065874102838",
+      "utc_offset" : 480,
+      "vicinity" : "徐汇区虹漕南路308号",
+      "website" : "http://www.s5461.net/"
+   },
+   "status" : "OK"
+}

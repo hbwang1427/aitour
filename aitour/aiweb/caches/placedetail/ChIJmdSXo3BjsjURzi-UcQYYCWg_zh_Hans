@@ -1,0 +1,82 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "7900",
+            "short_name" : "7900",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "沪闵路",
+            "short_name" : "沪闵路",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "闵行区",
+            "short_name" : "闵行区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e闵行区\u003c/span\u003e\u003cspan class=\"street-address\"\u003e沪闵路7900号\u003c/span\u003e",
+      "formatted_address" : "中国上海市闵行区沪闵路7900号",
+      "formatted_phone_number" : "021 6480 6759",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.13665739999999,
+            "lng" : 121.4068095
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.1379055802915,
+               "lng" : 121.4082881302915
+            },
+            "southwest" : {
+               "lat" : 31.1352076197085,
+               "lng" : 121.4055901697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "53ea8c053e214784de95874149c1d1ed95ebd98d",
+      "international_phone_number" : "+86 21 6480 6759",
+      "name" : "航宇科普中心",
+      "photos" : [
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103459548396078062856/photos\"\u003e홍승표\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA4XJBxJdhX8oBNG04_ZcOlSR_0OQ_aknGgMecVoOh5kS-PE96OiTKTgpePcsRjWjmPQlWPIMk3ER0BGl1w8PAnQaGbxgyqT0Uvk2hft28bv0xV_vzJcGn3GBcD9LXobWNEhC87oxt792kRo4OmOlNVDj8GhQCNK4_J4ruACEsYwsbT1wH3qFyyg",
+            "width" : 2988
+         },
+         {
+            "height" : 5312,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103459548396078062856/photos\"\u003e홍승표\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAQg1GX1h6gncfS1yt3YaVdL_DWFmHBd2bIiloNflcNJtvg1P1LaOi2dmWMpnzJw-h4LODgTYKOQu49boBxSW-QVzwaKSpEqFz0HBHVvJZqTnpElOlUoPbgjkjybdF-g7WEhDspwUrbmhshBX0HtNirLZzGhTuoFBNUBbWrkoHY7Vb_JWDG4zm0g",
+            "width" : 2988
+         }
+      ],
+      "place_id" : "ChIJmdSXo3BjsjURzi-UcQYYCWg",
+      "reference" : "CmRRAAAAJ6Pyyc8HBSFxr-irHimq3tNm5fO6_VZ6Hxgrht9tMQLYpcNzM4oiW74RasqTD2MtfmSLWLXflzqLiq5iWF0gEEAhNYrsZksSwEAfXV1SPOsEB9qyL5-SEftnSrnvC1YqEhBiBi6w8IgBIGKXcYTdkAGqGhTEJnGpcxWwrICuc9Wd8sWq4B2nSw",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7496549470689308622",
+      "utc_offset" : 480,
+      "vicinity" : "闵行区沪闵路7900号",
+      "website" : "http://www.shapc.org/"
+   },
+   "status" : "OK"
+}

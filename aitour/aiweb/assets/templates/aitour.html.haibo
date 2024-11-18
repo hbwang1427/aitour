@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+	<title>AI Tour</title>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+
+	<!-- stylesheets css -->
+	<!-- stylesheets css -->
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+	<link rel="stylesheet" href="../css/animate.min.css">
+  	<link rel="stylesheet" href="../css/et-line-font.css">
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+  	<link rel="stylesheet" href="../css/vegas.min.css">
+	<link rel="stylesheet" href="../css/style.css">
+
+	<link href='https://fonts.googleapis.com/css?family=Rajdhani:400,500,700' rel='stylesheet' type='text/css'>
+    <style>
+    	img{ 
+			max-width:550px; 
+			_width:expression(this.width>550?"550px":this.width); 
+			max-height:550px; 
+			_height:expression(this.height>550?"550px":this.height); 
+		}
+    </style>
+	<script src="/assets/js/load-image.all.min.js"></script>
+	<script src="//unpkg.com/vue"></script>
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/vegas.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="js/smoothscroll.js"></script>
+	<script type="text/javascript">
+		function selectFile(input) {
+        	if (input.files && input.files[0]) {
+	            console.log('in select file!!', input.files[0])
+	            var reader = new FileReader();
+	            $('#centerDiv').show();
+	            $('#url').val('http://');
+	            reader.onload = function (e) {
+	                app.imgurl=e.target.result; //result =  data:image/bmp;base64,...
+	            }
+	            reader.readAsDataURL(input.files[0]);
+	            loadImage(input.files[0],
+	              function(img){
+	              	var fileName = input.files[0].name;
+	              	var imgdata;
+	              	if (fileName.endsWith(".png")) {
+	              		imgdata = img.toDataURL("image/png");	
+	              	//} else if (fileName.endsWidth(".jpg") || fileName.endsWidth(".jpeg")) {
+	              	} else {
+	              		imgdata = img.toDataURL("image/jpeg");
+	              	}
+	              	
+	                $("#data").val(imgdata); 
+	                app.results = [];
+	                app.isRequesting=true;
+	                $.post("/predict", {
+	                	"image": imgdata,
+	                }).done(function(data) {
+	                	app.isRequesting=false;
+	                	if (data.results) {
+	                		app.results = data.results;
+	                	} else if (data.error) {
+	                		app.error = data.error;
+	                	}
+	                }).fail(function() {
+	                	app.error = "server error";
+	                }).always(function(){
+	                	app.isRequesting=false;
+	                });
+	              },
+	              {maxWidth: 400, maxHeight: 400, canvas: true, orientation: true}
+	            );
+	        }
+    }
+	</script>
+</head>
+<body>
+	<div class="contaner" id="main-content">
+		<div class="col-md-offset-4 col-md-8 col-sm-12">
+			<div class="row">
+				<div class="home-thumb">
+					<h3><strong>Upload your photo or take a snapshot</strong></h3>
+				</div>
+			</div>	
+		</div>	
+		<div class="col-md-offset-4 col-md-8 col-sm-12">
+				<div class="row">
+				<form id="file_form" style="display: block;">
+					<input type="file" class="btn btn-lg smoothScroll wow fadeInUp hidden-xs" name="file_name" id="fileinput" onchange="selectFile(this);" style="max-width: 80%; display: inline;">
+					<button onclick=" window.open('camera_select.html')" id="camera">Open Camera</button>
+				</form>
+			</div>
+			<h3><strong>Retrieved images and audios</strong></h3>
+		</div>
+
+		<div id="app">
+		</div>
+	</div>
+
+	<script>
+		var app = new Vue({
+		  el: '#app',
+		  delimiters: ['${', '}'],
+		  template: '\
+		  	<div>\
+			  	<center><h1 v-if="isRequesting">Computing... <img src="/assets/imgs/spinner.gif" /></h1></center>\
+			  	<div v-if="error" style="color:red">${error}</div>\
+			  	<img v-if="imgurl" :src="imgurl" style="width:auto; max-height: 450px; margin:15px;"></img>\
+			  	<ul v-for="item in results" style="padding-left:15px!important;">\
+			  		<li style="display:flex">\
+				  		<img :src="item.image_url" @click="display(item)"/>\
+				  		<div style="margin-left:10px;">\
+					  		<p>${item.text}</p>\
+					  		<audio v-if="item.audio_url" :src="item.audio_url" controls="controls"></audio>\
+				  		</div>\
+			  		</li>\
+			  	</ul>\
+		  	</div>\
+		  ',
+		  data: {
+		  	error:"",
+		  	imgurl:"",
+		  	isRequesting: false,
+		    results: []
+		  },
+		  methods:{
+		  	display(item) {
+
+		  	}
+		  }
+		});
+		console.log('rendered')
+	</script>
+
+</body>
+</html>

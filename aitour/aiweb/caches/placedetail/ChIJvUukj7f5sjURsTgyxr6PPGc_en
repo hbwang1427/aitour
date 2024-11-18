@@ -1,0 +1,74 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Qingpu",
+            "short_name" : "Qingpu",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Shanghai",
+            "short_name" : "Shanghai",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "China",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"locality\"\u003eQingpu\u003c/span\u003e, \u003cspan class=\"region\"\u003eShanghai\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChina\u003c/span\u003e",
+      "formatted_address" : "Qingpu, Shanghai, China",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.108203,
+            "lng" : 121.054415
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.1095519802915,
+               "lng" : 121.0557639802915
+            },
+            "southwest" : {
+               "lat" : 31.1068540197085,
+               "lng" : 121.0530660197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "176e595bcfb8f62043f3be1be181647d8b8740a5",
+      "name" : "Wangchang Memorial Hall",
+      "photos" : [
+         {
+            "height" : 551,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114561700476440282322/photos\"\u003eG Masami\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAavOX0mVe5pQmfsCwqy3Dfu_rs_C6XVCTQk8emcz9lFEvQSaUl6A3bWaGc-QS5PYAIdcTEOPGbNWQN85dNTDHEu10sYHEVNkwnejb3T_De2W20aYfku4q95H7pJZf14cxEhAmD1xYMYPsnSlm4PsQTAEEGhR9kwGYAaMIzU5fZW9grj9LgBZPEg",
+            "width" : 980
+         }
+      ],
+      "place_id" : "ChIJvUukj7f5sjURsTgyxr6PPGc",
+      "rating" : 3,
+      "reference" : "CmRRAAAA1U5P8WDvZEBx7xnkb2588snUTwH1QGXkvcqXrj9lbf7Xe1GEx-zYk-dwXLyGz8XN8-8afY7GKnkSaORvg1zmIfT-qppFMFq9gmv17gWYaLizvfgoAby4mw6q8A3aYRkOEhDZxVhHM7gmVGqg6460vy1nGhQoXra2rySiKbiWxlHLReEbT2IJ7Q",
+      "reviews" : [
+         {
+            "author_name" : "María Elisa Kok",
+            "author_url" : "https://www.google.com/maps/contrib/108805089995234504695/reviews",
+            "language" : "es",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-X6Fmk7tNrRw/AAAAAAAAAAI/AAAAAAAAB_E/ZuNNRFHlDiA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "5 years ago",
+            "text" : "",
+            "time" : 1351495077
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7438978734040955057",
+      "utc_offset" : 480,
+      "vicinity" : "Qingpu"
+   },
+   "status" : "OK"
+}

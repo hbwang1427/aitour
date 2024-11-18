@@ -1,0 +1,100 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "125",
+            "short_name" : "125",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "古宜路",
+            "short_name" : "古宜路",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "徐汇区",
+            "short_name" : "徐汇区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "200000",
+            "short_name" : "200000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e徐汇区\u003c/span\u003e\u003cspan class=\"street-address\"\u003e古宜路125号\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e邮政编码: 200000\u003c/span\u003e",
+      "formatted_address" : "中国上海市徐汇区古宜路125号 邮政编码: 200000",
+      "formatted_phone_number" : "021 5424 4137",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.186117,
+            "lng" : 121.425387
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.1874659802915,
+               "lng" : 121.4267359802915
+            },
+            "southwest" : {
+               "lat" : 31.1847680197085,
+               "lng" : 121.4240380197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "618da1c5c5ba953fd267bc456c64ed7f26c993e0",
+      "international_phone_number" : "+86 21 5424 4137",
+      "name" : "上海市群众艺术馆",
+      "photos" : [
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110412978035189950890/photos\"\u003eLarry L\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAZJxi8J_Zs2wiKD-QoEjW2egJRM-X1Ne_i2HJ7KTTnomnQNCQy4WHEC5px3ugnje2QpaMne9ERfx-BRh7my4y0Int1B3Zf4YM--RNriRMYSaoTfbXX_Pkq2vxI-MOvjyHEhCcUU8zdQRZ6Ynb_PVbRHXBGhR7-8jH0lq9ulxEueJSRmNYjBDF-g",
+            "width" : 4032
+         },
+         {
+            "height" : 638,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101724342220876691883/photos\"\u003eBecky Wang\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAYs40gRvKjUxOZEZeQln2ePQUi96ZPxQJiTKvPfUp8uEwVj-WI8hKckehPmwRNmmYwAV4FkK4aZDYmMldZ4RpLSbGbK1JN5jLQNGqhYelnPujRl8XY5ourngcAEioheNdEhCYHwfKm5lqDOZxIjMdb3Q_GhTjzl5OsnYWivZ8kHrsrRdBsYkXrg",
+            "width" : 742
+         }
+      ],
+      "place_id" : "ChIJ4e08qyFlsjURBnjGuWAGn8E",
+      "rating" : 4,
+      "reference" : "CmRSAAAAlokruX0Z86IdYhAKm6rRJrVY0UTIqUpQRgo_ttyUiCj_x1M1vLkEGrOeiy8CrnxHy7dyWMfICe88lXAurDyiJRqWKWyJiYL8Xl1Sxsa9BBFojNfVtthxsCmJ6hf-y-h4EhA7wbXVbrn8bFUCFiDczWWlGhSKNkRQGmUTy2Oaz0z-qUVThqFUow",
+      "reviews" : [
+         {
+            "author_name" : "李放夏",
+            "author_url" : "https://www.google.com/maps/contrib/107737918133365526202/reviews",
+            "language" : "zh",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-UKtczf-V5rU/AAAAAAAAAAI/AAAAAAAAAB4/sbLxLiOZa5E/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "1年前",
+            "text" : "还好",
+            "time" : 1473633395
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=13951877183120504838",
+      "utc_offset" : 480,
+      "vicinity" : "徐汇区古宜路125号",
+      "website" : "http://www.shqyg.com/"
+   },
+   "status" : "OK"
+}

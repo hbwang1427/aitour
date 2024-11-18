@@ -1,0 +1,74 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "962",
+            "short_name" : "962",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "南京西路",
+            "short_name" : "南京西路",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "南京西路",
+            "short_name" : "南京西路",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "静安区",
+            "short_name" : "静安区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "200000",
+            "short_name" : "200000",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e静安区\u003c/span\u003e\u003cspan class=\"extended-address\"\u003e南京西路\u003c/span\u003e\u003cspan class=\"street-address\"\u003e962号\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e邮政编码: 200000\u003c/span\u003e",
+      "formatted_address" : "中国上海市静安区南京西路962号 邮政编码: 200000",
+      "formatted_phone_number" : "021 6217 7029",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.22975,
+            "lng" : 121.458375
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.2310046302915,
+               "lng" : 121.4598635302915
+            },
+            "southwest" : {
+               "lat" : 31.2283066697085,
+               "lng" : 121.4571655697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "10986a657253f525b3fbcd571adab9ac4a16f20f",
+      "international_phone_number" : "+86 21 6217 7029",
+      "name" : "上海少年儿童图书馆",
+      "place_id" : "ChIJa1cYlRBwsjUR55JLGY_RuSQ",
+      "reference" : "CmRRAAAAWUcwzw-GThslkjsIhO39ax8K4MrAkQ6W_FcaQIJyXUbvUngKoT8yGNdNvGfTErw72W22t0DHwnYSLmoY7m7Nj2hg7gJQfnTJHNGiNW5qMLo-2O1NT4ZHG4Bw690goIvSEhCzxlLHaSbQENlnTeETFCnHGhQTL6Mb48Dh9zjcC7SjKfMLP4r8zg",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=2646376668591788775",
+      "utc_offset" : 480,
+      "vicinity" : "静安区南京西路962号",
+      "website" : "http://www.sst.cn/"
+   },
+   "status" : "OK"
+}

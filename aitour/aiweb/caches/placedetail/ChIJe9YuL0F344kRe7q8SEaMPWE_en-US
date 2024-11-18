@@ -1,0 +1,303 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "26",
+            "short_name" : "26",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Oxford Street",
+            "short_name" : "Oxford St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Agassiz",
+            "short_name" : "Agassiz",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "Cambridge",
+            "short_name" : "Cambridge",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Middlesex County",
+            "short_name" : "Middlesex County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Massachusetts",
+            "short_name" : "MA",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "02138",
+            "short_name" : "02138",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "2902",
+            "short_name" : "2902",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e26 Oxford St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eCambridge\u003c/span\u003e, \u003cspan class=\"region\"\u003eMA\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e02138-2902\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "26 Oxford St, Cambridge, MA 02138, USA",
+      "formatted_phone_number" : "(617) 495-3045",
+      "geometry" : {
+         "location" : {
+            "lat" : 42.3784626,
+            "lng" : -71.1155576
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 42.3797227302915,
+               "lng" : -71.11464656970848
+            },
+            "southwest" : {
+               "lat" : 42.3770247697085,
+               "lng" : -71.1173445302915
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "a7a7a9f6105b3a74a6cf6e23affaaed9ccb9b708",
+      "international_phone_number" : "+1 617-495-3045",
+      "name" : "Harvard Museum of Natural History",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+            "Wednesday: 9:00 AM – 5:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: 9:00 AM – 5:00 PM",
+            "Sunday: 9:00 AM – 5:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1704,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102600144737687003349/photos\"\u003eEnta Yang\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAN9INHXEvfV071IvOxBipjr5IJhHiXWh6tcMcm2rNVmI_-xHA_1DHLPvpLOWh7waofQ2_fW1Tu6YMr7oP_KncY46XqsinecJd345a_oXUUa-pqhfrlI5lhGVvir88fqEUEhDC7pvegiSG7nPpMInBcyCbGhQOh-H7rkxOVCCIRZOUgk80oAL8kQ",
+            "width" : 2272
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111598195899974653230/photos\"\u003eAnanya Bhattacharyya\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAs4Z4fr_S1sn1lq_t11BXojOdrsMJKs8shJxoraZlNh1Fo1D0dL9pLBUWXsAh7VbGFZ7zKiHQzzYdA594Kl0bYgx74GXIBV0wNSccUdBTLAo852RkKJsSM82bDqOI2yqAEhBylKQ0lAV73tB8giBUSrBXGhT9WAYuTTFTXXxuHf1nemlx42L_3g",
+            "width" : 4160
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116664598072987177594/photos\"\u003eColin McNair\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAgVLbpdTnxn6PgjVBKvkWhNttKp7NujhuHkrsKWusQz4nZhqZLkYVcLWN4CaRsUM-hMzwbAaIhCnzmIRERX9NvKPY7BY2iuMgKNKS_1ffhPRUIPDLZyrWrs8d-L-gL1gOEhDPx5JeICeIIff7kPTwW7xiGhSL9SI3uNveXhFTHLqxiJs6DlUBMg",
+            "width" : 3264
+         },
+         {
+            "height" : 3088,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/108795466792792318806/photos\"\u003eTony Laird\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAPnlmuOniGKY7TuHJoZOHfMwMGJwcg2XZs1Wnrl_KZYwaK_AnFrZGwY54ZJpW3uS5PXbODKRyi2MXI5yZVeDax9AgaIWi1Ny-1nRrtjQJDULnrspC5LEHcdgD1xBg2IOKEhA5OPcAS44vft2tAzrY0hcUGhTrdnwiLBt07lXpip-DiZYJnhuJnA",
+            "width" : 4160
+         },
+         {
+            "height" : 2668,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/114553512840974493612/photos\"\u003eAnne Murtha\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAjM8BSPzlFvY0P0aX-2fIHbZ7tmGK-jCoboxb_QCjw9YzBUoZ1wVxrquh4XTYqa1vDw1tZDlLNUeoHMA2cL1ayjy2Kcpyh999VJ5gXFoZ31a0jGw3DBHRSj_lGBjMZKChEhAvgRUG82IAQQ8C0nnJ4rHXGhTzAnjiyAQ6t5n0kMV7Ady5moNZew",
+            "width" : 4095
+         },
+         {
+            "height" : 1074,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101908630417252838447/photos\"\u003eHarvard Museum of Natural History\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRZAAAAY1HFAbjZ7qj2gQGiqWZzo21dY8Jmk3bo5qSJ0Kpz9VsU057EHXdaXG3LjkM75XHMc4msGIM_m3O30WDeTWvR4eOHX57jh_jeFm-FN60T5ZC7UAxglcvRz0cNA4a73VbAEhB7gJVD-YcHqiycvMxU5cI7GhQfFbTh06h7BjxCapUBHEYXj7Wtmg",
+            "width" : 1600
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106679359911767486231/photos\"\u003eJason Brown\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAb7Y2xg2bxFQ-oa3gzNyc8mslxl6g7a4H3NtCBG--6SCc_ou6dD8BUD9weS9gCTzkIjjC7pA2rbQ6sQxNcawz5sfCH_AL4FglUY7_jdVMYC1gR9IVeGt50h-IbFcUKIlDEhAIgQzL0TjyN4xzQ9fNcA3UGhQ6-tW-KFt23RCyRJ6hg3EwL4qU_Q",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115250859698213266786/photos\"\u003eAli Constantinople\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAABN47spU3Illv7Sxa2iVrqanwvbqFcQi5F7__Xe-lf-V_zjBuyo87vsdZe0JcL8IQGk_7YPU2KwM7tZwnHXa6VvaSmbLYQYylxP74xmo_jvhFtFph9zqpSNYxwNi1RbqQEhCcx-gqWYxyKb7Rej8kleZpGhQpfq8uXvqksie9_6JrDN94Tq-Xhg",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111530750115136426700/photos\"\u003eAlejandra Sierra\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAmfgOjHvr2DnIlKElZauyvWAnDU0AoONFVqvjWLisTFKgiyfF7JVidaWAIrdiyqSAFGw1jnK6_5QEkrgF5E2QGwNr2T-L2zH2kLN9J4jM19hGydVZdFXgW1Y0_s3KPJh0EhAP4VPkGOKwDLGNfqeh8wdZGhQXlN8zgMylwx4RGvRjxQR6RzpCeA",
+            "width" : 4032
+         },
+         {
+            "height" : 1456,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/113604135429548030776/photos\"\u003eJanette Bowler\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAQ8q_YQdBLLBQjVHX6M7o3LL4_WiVIJkwgcF_4L0b7pVQ61EDdFxyfiue8_M_4XSBw6xvCvD2HXBhfKqFGZJ1pPjq4c2o0948_y4hEx1r3gcXb4I6yeSq11pAirY43aamEhDy9Mmyxq4lFrF9kCeVrTzYGhRFG2Iu8A5xS04iRFsotcXjZJsvow",
+            "width" : 2592
+         }
+      ],
+      "place_id" : "ChIJe9YuL0F344kRe7q8SEaMPWE",
+      "rating" : 4.7,
+      "reference" : "CmRRAAAA76OmBDIlS3FlQQ1hRj7Aw1fydLfpTKgqAy515eQpCYtzvp7M-riQiXBWLiM6Aisu_vyDVSTcNm6ynX4cO4YKzkmxKrR6gD2c8336UDuHkkQCht4wbkdu3yp9-8GteATNEhDxCYWtdzEXJ7RcvPvarl9YGhSAhWajY76sPvBBJNhlfMqubPPEYw",
+      "reviews" : [
+         {
+            "author_name" : "Alicia Daniel",
+            "author_url" : "https://www.google.com/maps/contrib/107054420027142513496/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-5RB4GGYla2E/AAAAAAAAAAI/AAAAAAAAAFM/Cu9sKHDIQoA/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "2 weeks ago",
+            "text" : "Very informative and fun. Harvard students get free admission for themselves and a guest. Boston Public Library often has discount passes for non-Harvard affiliates. Impressive collections and nice curation. Fun for kids and adults alike. A favorite collection of mine is the glass flowers, which are both educational and beautiful. The exhibit is newly renovated. Admission to this museum also gets you into the Peabody, a cool anthropological museum next door.",
+            "time" : 1521083632
+         },
+         {
+            "author_name" : "Noah Hoppe",
+            "author_url" : "https://www.google.com/maps/contrib/103099241814938515136/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-f3izjZhaSHw/AAAAAAAAAAI/AAAAAAAAAAc/muJBDivLlC8/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "a month ago",
+            "text" : "The glass flowers/sealife exhibit is worth the entire trip. This isn't a super high tech place but this has an old school vibe because if it ain't broke don't fix it. Remarkable collection. You can get to the Peabody from the same building, go to the stairs.",
+            "time" : 1519048310
+         },
+         {
+            "author_name" : "Justin Libby",
+            "author_url" : "https://www.google.com/maps/contrib/101394230872838414874/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-ojx31y1lSZg/AAAAAAAAAAI/AAAAAAAAEJ0/U_gblIv__o0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "2 months ago",
+            "text" : "If you're a fan of (1) taxidermy, (2) minerals, crystals, rocks or (3) glass flowers or (4) mesoamerican cultural artifacts, then this museum is for you! My son and father-in-law really love the mineral room - so many colorful and shiny specimens.\nPros: reasonable admission price, historic brick building on Harvard campus, exhibits are good for old and young family members\nCons: parking is limited, museum is up two flights of stairs, building is very drafty in winter, you can see the whole museum in 2 to 4 hours.\nIf you've already done the Museum of Science, the Museum of Fine Art, and the Isabella Stewart Gardener, this is a good next-place-to-visit-on-a-rainy-day.",
+            "time" : 1515031870
+         },
+         {
+            "author_name" : "Brian Leslie",
+            "author_url" : "https://www.google.com/maps/contrib/104164714126892715169/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-XPZNOKINMoE/AAAAAAAAAAI/AAAAAAAAA5s/eh4Y6cGYvFc/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "3 months ago",
+            "text" : "Our family's vote for best museum in Boston. A fascinating and enormous collection of specimens of rocks and minerals, prehistoric skeletons and stuffed/mounted creatures from around the world. Live, guided exhibits on the weekends – this Sunday we saw (and touched) a horseshoe crab, a scorpion, and a starfish. Entertaining for the whole family and kids of all ages.  Free admission for Massachusetts residents (with proof of residency) on Sundays from 9–12, and Wednesdays after 3pm.",
+            "time" : 1513552900
+         },
+         {
+            "author_name" : "Lou Mo",
+            "author_url" : "https://www.google.com/maps/contrib/102886103560387765665/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-CHz8LCzTj20/AAAAAAAAAAI/AAAAAAAAAAA/ACLGyWAAJFJ2Il1c3otOJDT3pLPPmTWYFA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "Incredible collections, well presented and explained. The glass flowers and plants alone are of such wonderful craftsmanship that they are worth a visit to Boston all by themselves. Don't miss out.",
+            "time" : 1519283732
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7006910828754287227",
+      "utc_offset" : -240,
+      "vicinity" : "26 Oxford Street, Cambridge",
+      "website" : "http://www.hmnh.harvard.edu/"
+   },
+   "status" : "OK"
+}

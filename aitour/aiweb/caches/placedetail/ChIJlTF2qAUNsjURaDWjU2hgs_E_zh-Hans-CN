@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "428",
+            "short_name" : "428",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "盘古路",
+            "short_name" : "盘古路",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "宝山区",
+            "short_name" : "宝山区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e宝山区\u003c/span\u003e\u003cspan class=\"street-address\"\u003e盘古路428号\u003c/span\u003e",
+      "formatted_address" : "中国上海市宝山区盘古路428号",
+      "formatted_phone_number" : "021 5669 6140",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.407425,
+            "lng" : 121.48204
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.4089577302915,
+               "lng" : 121.4833001302915
+            },
+            "southwest" : {
+               "lat" : 31.40625976970851,
+               "lng" : 121.4806021697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "3c4ce3a90fd022fd93caf873213377513a610f33",
+      "international_phone_number" : "+86 21 5669 6140",
+      "name" : "宝山区少年宫",
+      "place_id" : "ChIJlTF2qAUNsjURaDWjU2hgs_E",
+      "reference" : "CmRSAAAAV7WwDDYFn0H3MV-_m5Vd2BGg3pZxeO_2vWDiHYk6PezC1vz8aNfzQ0DCq2ivFHbI5JmKciTFcS5oySkerRbSJGvIzg-NnnabvMw2gmE892r1T9liakcWYvzHIPQvxLMuEhDunDpZDoWPy81lgizAL0VTGhRuL99TCQ7iiCq_jGCjfXu-iHN6jA",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=17416370185167910248",
+      "utc_offset" : 480,
+      "vicinity" : "宝山区盘古路428号"
+   },
+   "status" : "OK"
+}

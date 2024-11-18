@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+
+<script src="js/camera.js"></script>
+	<link rel="stylesheet" href="../css/bootstrap.min.css">
+	<link rel="stylesheet" href="../css/animate.min.css">
+  	<link rel="stylesheet" href="../css/et-line-font.css">
+	<link rel="stylesheet" href="../css/font-awesome.min.css">
+  	<link rel="stylesheet" href="../css/vegas.min.css">
+	<link rel="stylesheet" href="../css/style.css">
+  <title>camera demo</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <script src="/assets/js/load-image.all.min.js"></script>
+	<script src="//unpkg.com/vue"></script>
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/vegas.min.js"></script>
+	<script src="js/wow.min.js"></script>
+	<script src="js/smoothscroll.js"></script>
+</head>
+
+<body>
+
+    <div class="container" id="main-content">
+        <div class="col-md-offset-2 col-md-8 col-sm-12">
+            <div class="row">
+              <video id="video" width="320" height="240"></video>
+              <canvas id="canvas" width="320" height="240"></canvas>
+            </div>
+          </div>
+          <div class="col-md-offset-5 col-md-8 col-sm-12">
+              <div class="row">
+                <div class="home-thumb">
+                  <button id="snap" class="btn btn-lg btn-default smoothScroll wow fadeInUp hidden-xs">Snap a Photo</button>
+                </div>
+              </div>	
+          </div>
+          <div class="col-md-offset-4 col-md-8 col-sm-12">
+              <h3><strong>Retrieved images and audios</strong></h3>	
+          </div>
+          <div id="app">
+        </div>
+
+        <script>
+          var app = new Vue({
+            el: '#app',
+            delimiters: ['${', '}'],
+            template: '\
+              <div>\
+                <center><h1 v-if="isRequesting">Computing... <img src="/assets/imgs/spinner.gif" /></h1></center>\
+                <div v-if="error" style="color:red">${error}</div>\
+                <img v-if="imgurl" :src="imgurl" style="width:auto; max-height: 450px; margin:15px;"></img>\
+                <ul v-for="item in results" style="padding-left:15px!important;">\
+                  <li style="display:flex">\
+                    <img :src="item.image_url" @click="display(item)"/>\
+                    <div style="margin-left:10px;">\
+                      <p>${item.text}</p>\
+                      <audio v-if="item.audio_url" :src="item.audio_url" controls="controls"></audio>\
+                    </div>\
+                  </li>\
+                </ul>\
+              </div>\
+            ',
+            data: {
+              error:"",
+              imgurl:"",
+              isRequesting: false,
+              results: []
+            },
+            methods:{
+              display(item) {
+      
+              }
+            }
+          });
+          console.log('rendered')
+        </script>
+
+        <script>
+            // Elements for taking the snapshot
+            var canvas = document.getElementById('canvas');
+            var context = canvas.getContext('2d');
+            var video = document.getElementById('video');
+
+            // Trigger photo take
+            document.getElementById("snap").addEventListener("click", function() {
+              context.drawImage(video, 0, 0, 320, 240);
+            });
+        </script>
+      </div>
+</body>
+</html>

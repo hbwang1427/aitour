@@ -1,0 +1,94 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "55",
+            "short_name" : "55",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "娄山关路",
+            "short_name" : "娄山关路",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "虹桥",
+            "short_name" : "虹桥",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "长宁区",
+            "short_name" : "长宁区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "200336",
+            "short_name" : "200336",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e长宁区\u003c/span\u003e\u003cspan class=\"extended-address\"\u003e虹桥\u003c/span\u003e\u003cspan class=\"street-address\"\u003e娄山关路55号\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e邮政编码: 200336\u003c/span\u003e",
+      "formatted_address" : "中国上海市长宁区虹桥娄山关路55号 邮政编码: 200336",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.202929,
+            "lng" : 121.402676
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.2042779802915,
+               "lng" : 121.4040249802915
+            },
+            "southwest" : {
+               "lat" : 31.2015800197085,
+               "lng" : 121.4013270197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "f2f156365a3292bf83735e7e5f663e19aeb3d28b",
+      "name" : "上海国际展览中心展览开发部",
+      "place_id" : "ChIJL8zHqQllsjURZDG0Ivgf6u4",
+      "rating" : 4.5,
+      "reference" : "CmRSAAAAeHM3MoBlI61wJJkCBL8FkFPBfL0HCjb9s9NYWCWBqVR0HHw44IWuDV6-hZBuAUIH66cTRSM4OWxg7IhXmytAZDz8GMRMNPlLP81lh-G8g6HhW6rrIKnwZu322q2xm_-EEhBHGAswkCGqREMd7gxXw9AeGhTDBqcB_2wiI45HMn4XLsTncqLxgA",
+      "reviews" : [
+         {
+            "author_name" : "Yoshinori S",
+            "author_url" : "https://www.google.com/maps/contrib/110040694287991026474/reviews",
+            "language" : "ja",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-MPA0vtPsQcE/AAAAAAAAAAI/AAAAAAAAGS4/R4xRIsVzPyI/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "2年前",
+            "text" : "",
+            "time" : 1430400591
+         },
+         {
+            "author_name" : "Rolan Andrievsky",
+            "author_url" : "https://www.google.com/maps/contrib/111972191624536408142/reviews",
+            "language" : "ru",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-5YLJ_HlyZ6I/AAAAAAAAAAI/AAAAAAAAH_k/h58ov4J-Rt4/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "2年前",
+            "text" : "",
+            "time" : 1427469861
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=17215607676171727204",
+      "utc_offset" : 480,
+      "vicinity" : "长宁区虹桥娄山关路55号"
+   },
+   "status" : "OK"
+}

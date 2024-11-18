@@ -1,0 +1,203 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "2000",
+            "short_name" : "2000",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "世纪大道",
+            "short_name" : "世纪大道",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "浦东新区",
+            "short_name" : "浦东新区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "200135",
+            "short_name" : "200135",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e浦东新区\u003c/span\u003e\u003cspan class=\"street-address\"\u003e世纪大道2000号\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e邮政编码: 200135\u003c/span\u003e",
+      "formatted_address" : "中国上海市浦东新区世纪大道2000号 邮政编码: 200135",
+      "formatted_phone_number" : "021 6854 2000",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.21797,
+            "lng" : 121.541078
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.2193189802915,
+               "lng" : 121.5424269802915
+            },
+            "southwest" : {
+               "lat" : 31.2166210197085,
+               "lng" : 121.5397290197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "4cbd6fe81d7cb712515d614e0a1698a3735e991c",
+      "international_phone_number" : "+86 21 6854 2000",
+      "name" : "上海科技馆",
+      "photos" : [
+         {
+            "height" : 2145,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111694611275632061993/photos\"\u003efrog wong\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAk91DzMcj1gHxqGo5_ZmfhoJrr_UieKeKaHRfCZeRgJdaqnRcF8qkMcwXglWoebFiDeV91k12sMeJxI_l5IsppnUKPixU0jz8xReHhjcCkfbstAZVP47nw2KcrO5ROoSLEhDNWsMgC99g01oaxrp5d2fmGhRpy3z_5rDH_WtRpmuf7hxRB7AYqw",
+            "width" : 3819
+         },
+         {
+            "height" : 2145,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111694611275632061993/photos\"\u003efrog wong\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAG5ST9hxP_6BIYRwfhCwloDSsJQYkRPURCERi9Asmf8L6o0HTq-cOm37a5bV0jE7tLweEwNryafaMxmwsXMNoNJO4mbagVy88Tv973c0uU17ZpVeNrcSV2slIb0u2YPEtEhA08Giv8_L8SK_DMLB0wFOrGhRCeDWkFxg5CNUPiD_cPlIXFkTaQA",
+            "width" : 3819
+         },
+         {
+            "height" : 2145,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111694611275632061993/photos\"\u003efrog wong\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAcmzBXM4VtwbotPLFC7eTyaxSKTPM_AfptLOynddDHDreUllLYQMvMVyG3lf2q3ONxJlGVOrw2zH8CkXbQwpsoxOQGMiEZ9JxKsLYlpDKQnl8DaaGTYHS87eDpSIaeqbKEhCV-HAmXDysAPYIcWCRrIOGGhSSrLuLmI0gU4QmfoOX2-fR-4IPIw",
+            "width" : 3819
+         },
+         {
+            "height" : 2145,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111694611275632061993/photos\"\u003efrog wong\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAcm5mGNbqR3YcObdFwyBOGI4-UtM-ixZ5rcNkxUzAVURzmW9G9ucDDhrG_JGQBhyFzmEhdYiH9q6MpOweuWaZH_sAT7-zO6kza--8fm5tsXXvkhGa2v8F-813d52XbJ0REhBel1R-7DdpGQMG8P9p0rZyGhR7o_6gasZtnhQpq80FxUpxTTRasw",
+            "width" : 3819
+         },
+         {
+            "height" : 2145,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111694611275632061993/photos\"\u003efrog wong\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA5DPNAAgUEi0CRFt1fxj9CdR3rHUWF_WF_InRf0qrDp2SwnAKcIQ4MsqMOHbD-ZTHN7d6uiNk2hLjYn134TJa2f3q8mXzUAN9quMKazgjSxSOpbCORPjkqSJYR7J8xPWrEhDt2JjWHZFCIGSIljTxTxUJGhQkHzkyPlPYz3dPTByI1cUz2tK2nw",
+            "width" : 3819
+         },
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109801466580567220177/photos\"\u003eMinh Nguyen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAARYeDt5Lz-zXvFFsViN_uzJqmoK6d9kR6MvkE-EjEsK73NqDKpvRISoKnz1qhlZUXjTxxq0N51kITwmUhlLDS2elQQMGw9pnBz-SJGAC-x2CBgOi6f6IbR3NxlUNDPWnDEhCDaV9XrSfOEJt0AyqgonTPGhSdDMA8NnUmcC_NzC2djZ9y8LjROw",
+            "width" : 3888
+         },
+         {
+            "height" : 2268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116277422919350015741/photos\"\u003etonato gonzalez\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAAi7yKyuoe02bp74R7HjEDeSIbYfbQvQAcsPcKuY1ZyRSjVBpVw2Y5ZfINV_i2t1EhcpKvEj3n8GZQNi1vOOLb1BFwPsoWgtzAT4l7MOVswm6iFFX9OjaCkZsYbwlKU6FEhBtM7aybctqrM9dR-Z0WN8lGhQbCsegdUcVGbF8yOYW_RNE3kfD2w",
+            "width" : 4032
+         },
+         {
+            "height" : 2160,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107682510508998938116/photos\"\u003eBlue Allrise\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAuErwtj4gyShYndqo5SCw3dBS2GusacqA3p0u--CvzQxhSfUNpoviNDG7awhIIvguPIeCbnVPPfKGxn8M6A3K1lewfeW7yv5UAsQCZQlEfo-Y09U_Y3Je3DiiZiFZKPLPEhDGIomA9W0gfaikrJAH6RBxGhSsNje6jZ2DBPCdnABtH5XqMhrILQ",
+            "width" : 3840
+         },
+         {
+            "height" : 2145,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111694611275632061993/photos\"\u003efrog wong\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAuxzpQMQGg7YFJCtiE0xIyCq45XO3IU6z13riuGqIR0jUpnRD3JpLkI5z3w3tV1-tFMM0tbuXDaOBuzqHHIWPihu5oyBCyZFBiOEemXZ_akDdil6vxcV6pYJQLBt7HDz9EhBpo-uG1gnQpU4hKN-B4hyOGhT7LrD4DapBZiWp1YLia88mpfPk0g",
+            "width" : 3819
+         },
+         {
+            "height" : 2145,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/111694611275632061993/photos\"\u003efrog wong\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAx_Re00ibxoaxwqokq3irTkPWd3zQjWrEGFg69Y2aSwAOk-cxaxurkLoNq7aaTJi_L8dypxhuE3VqQ0wqReMqpxwp0fMptD4YEMwR-jQSXsQg9QJQNQJYmQPC6R22nQxEEhDM9g7dG72L6H_uFhF92eFDGhRsjWA9spdJQI3zi_3thBdiTeUmaQ",
+            "width" : 3819
+         }
+      ],
+      "place_id" : "ChIJAbtWITN3sjURgaPgumjFhWs",
+      "rating" : 4,
+      "reference" : "CmRRAAAAYI1emur2h_VIKdq8ek_vBrV9aoNCLlQ6T2LVvAkr3PO2Hjt0o9xpamRNsSLKqRrVoWB_weLG0llZl6r6E-qbzovcJitQWqcN-Yd3bgFJVCde_EifvqSEasty506cTvhzEhCdiH2AzMbgY9R5ae9tV0fYGhTRS0USyRsM02VIoDJCyzirrdwykg",
+      "reviews" : [
+         {
+            "author_name" : "frog wong",
+            "author_url" : "https://www.google.com/maps/contrib/111694611275632061993/reviews",
+            "language" : "zh",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-g9O6Q5zCwEY/AAAAAAAAAAI/AAAAAAAARLU/8wXYl90EwQo/s128-c0x00000000-cc-rp-mo-ba8/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "1年前",
+            "text" : "上海科技馆\n\n上海科技馆位于上海市浦东新区花木行政文化中心区的世纪大道2000号，是以科普教育为主的展览馆，以「自然·人·科技」为主题。\n科技馆占地6万8000平方米，建筑面积9万8000平方米，总投资额15亿人民币。\n科技馆还有2个分馆，分别是延安东路260号的自然博物分馆（已经关闭）和龙吴路1102号的标本楼。\n\n上海科技馆目前有11个展区对外开放，包括：\n生物万象：表现生物的多样性\n地壳探密：体验各种地质变化\n设计师摇篮：强调「好主意」是创意之源\n儿童科技园：让儿童体验科学乐趣\n智慧之光：表现多学科基本原理和典型现象\n地球家园：倡导人与自然和谐统一、同生共荣\n信息时代：表现信息技术引领社会巨大变革\n机器人世界：体验人工智慧应用技术飞速发展\n探索之光：揭示人类破解物质和生命之谜\n人与健康：探索人体奥秘及传播健康理念\n宇航天地：展现人实现飞天梦想足迹\n上海科技馆共有4个影院，每年可放映8,000场次：\nIMAX立体巨幕影院\n球幕影院\n四维影院\n太空影院\n\n地理位置\n世纪大道2000号\n\n门票\n60元\n\n开放时间\n周二至周日9:00-17:15\n法定节假日开放，时间为8:45-18:30。\n\n交通信息\n上海轨道交通二号线上海科技馆站\n上海公交593，638，640，794，936路\n\n景点指数（五星最高）\n三星\n\n厕所指数（五星最高）\n三星\n\n上海科技館\n\n上海科技館位於上海市浦東新區花木行政文化中心區的世紀大道2000號，是以科普教育為主的展覽館，以「自然·人·科技」為主題。\n科技館佔地6萬8000平方米，建築面積9萬8000平方米，總投資額15億人民幣。\n科技館還有2個分館，分別是延安東路260號的自然博物分館（已經關閉）和龍吳路1102號的標本樓。\n\n上海科技館目前有11個展區對外開放，包括：\n生物萬象：表現生物的多樣性\n地殼探密：體驗各種地質變化\n設計師搖籃：強調「好主意」是創意之源\n兒童科技園：讓兒童體驗科學樂趣\n智慧之光：表現多學科基本原理和典型現象\n地球家園：倡導人與自然和諧統一、同生共榮\n信息時代：表現信息技術引領社會巨大變革\n機器人世界：體驗人工智慧應用技術飛速發展\n探索之光：揭示人類破解物質和生命之謎\n人與健康：探索人體奧秘及傳播健康理念\n宇航天地：展現人實現飛天夢想足跡\n上海科技館共有4個影院，每年可放映8,000場次：\nIMAX立體巨幕影院\n球幕影院\n四維影院\n太空影院\n\n地理位置\n世紀大道2000號\n\n門票\n60元\n\n開放時間\n周二至周日9:00-17:15\n法定節假日開放，時間為8:45-18:30。\n\n交通信息\n上海軌道交通二號線上海科技館站\n上海公交593，638，640，794，936路\n\n景點指數（五星最高）\n三星\n\n廁所指數（五星最高）\n三星",
+            "time" : 1486985872
+         },
+         {
+            "author_name" : "jing chen",
+            "author_url" : "https://www.google.com/maps/contrib/117945858229011779860/reviews",
+            "language" : "zh",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-qH8fWsJMmCE/AAAAAAAAAAI/AAAAAAAABpE/VBEYwpVnmrA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "1年前",
+            "text" : "上海科技馆位于中国上海市浦东新区花木行政文化中心区的世纪大道2000号，是以科普教育为主的展览馆，以“自然·人·科技”为主题。 上海科技馆占地6万8000平方米，建筑面积9万8000平方米，总投资额15亿人民币。科技馆由美国RTKL国际有限公司及上海建筑设计研究院合作设计。",
+            "time" : 1488984334
+         },
+         {
+            "author_name" : "Wei Zhe",
+            "author_url" : "https://www.google.com/maps/contrib/104444004207731062489/reviews",
+            "language" : "zh",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-jax4auko0K0/AAAAAAAAAAI/AAAAAAAASNE/qoXMLWsK01Q/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "1年前",
+            "text" : "去之前觉得是很牛逼的地方，来的时候馆内5000人，科技部分没什么感觉，倒是动物标本区很有诚意。",
+            "time" : 1484881640
+         },
+         {
+            "author_name" : "娄心宇",
+            "author_url" : "https://www.google.com/maps/contrib/103727958218671573444/reviews",
+            "language" : "zh",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-2Icxkn7JLEk/AAAAAAAAAAI/AAAAAAAAABI/qj-cO5MRvcA/s128-c0x00000000-cc-rp-mo/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "8个月前",
+            "text" : "小时候几乎经常去的地方，里面的设施按当时看还是不错的可内部设施几乎没有更新。",
+            "time" : 1499200569
+         },
+         {
+            "author_name" : "Zhou Wan",
+            "author_url" : "https://www.google.com/maps/contrib/115451108619537638671/reviews",
+            "language" : "zh",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-irkLUcOP-qA/AAAAAAAAAAI/AAAAAAAAACI/FiAt9kCOt_s/s128-c0x00000000-cc-rp-mo-ba5/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "7个月前",
+            "text" : "面积挺大的，只是设施太过于陈旧了，应该与时俱进，而且票价略贵。",
+            "time" : 1502775070
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=7747815787563361153",
+      "utc_offset" : 480,
+      "vicinity" : "浦东新区世纪大道2000号"
+   },
+   "status" : "OK"
+}

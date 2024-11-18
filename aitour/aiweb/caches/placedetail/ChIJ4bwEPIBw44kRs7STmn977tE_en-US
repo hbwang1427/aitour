@@ -1,0 +1,298 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "306",
+            "short_name" : "306",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Congress Street",
+            "short_name" : "Congress St",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Boston",
+            "short_name" : "Boston",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Suffolk County",
+            "short_name" : "Suffolk County",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Massachusetts",
+            "short_name" : "MA",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "United States",
+            "short_name" : "US",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "02210",
+            "short_name" : "02210",
+            "types" : [ "postal_code" ]
+         },
+         {
+            "long_name" : "1027",
+            "short_name" : "1027",
+            "types" : [ "postal_code_suffix" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e306 Congress St\u003c/span\u003e, \u003cspan class=\"locality\"\u003eBoston\u003c/span\u003e, \u003cspan class=\"region\"\u003eMA\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e02210-1027\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eUSA\u003c/span\u003e",
+      "formatted_address" : "306 Congress St, Boston, MA 02210, USA",
+      "formatted_phone_number" : "(617) 338-1773",
+      "geometry" : {
+         "location" : {
+            "lat" : 42.35217859999999,
+            "lng" : -71.05127969999999
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 42.35324628029149,
+               "lng" : -71.04926485
+            },
+            "southwest" : {
+               "lat" : 42.35054831970849,
+               "lng" : -71.05303825
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "afe88b74c0507e8440febc82d05625242e1410d3",
+      "international_phone_number" : "+1 617-338-1773",
+      "name" : "Boston Tea Party Ships & Museum",
+      "opening_hours" : {
+         "open_now" : true,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "1000"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1600"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "1000"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 10:00 AM – 4:00 PM",
+            "Tuesday: 10:00 AM – 4:00 PM",
+            "Wednesday: 10:00 AM – 4:00 PM",
+            "Thursday: 10:00 AM – 4:00 PM",
+            "Friday: 10:00 AM – 4:00 PM",
+            "Saturday: 10:00 AM – 4:00 PM",
+            "Sunday: 10:00 AM – 4:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1365,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103273376226190622170/photos\"\u003eBoston Tea Party Ships &amp; Museum\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAWR0iHP7OTUknM5OLFjJyByriXVF02E92syXYpRYaNdTqVYkkhyJ2jcN4N80C6j0A-0jliD789Y-unxVfedjRWKj7IUwBoR8ODP0vIw7bP79v7Tt5m2Vycpt5cgFfz2GBEhCEKOMNr-eJESKrAK8xOfOYGhSWJvx0QkIQrfZjD9n50-ZbHSargA",
+            "width" : 2048
+         },
+         {
+            "height" : 2268,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106707756835553226102/photos\"\u003eCari Rosinko\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAoyIjnKGbjm5JE7dGiAdU4no9fCRHNyEsplQXalUOpX7Yont--MgxUVgA8qPcoohTMdY3QbatC3mkF7ljmgs_Bdn5io5rcb5R1tIFjJ53HhblOY0HiwQ0mUz8Zp43Bt1xEhAgSbdHoZpqjs69hGld7gEWGhRDIydffj7GJOUMxpSeHNd3w4pO1w",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/117278443178591072101/photos\"\u003eLeoytigre01 Te\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA5GH_GmdjdKz9nz50F5pBVWxZGqNOc4pzKx5BXIlJNSjSV0WnTbO4nYLUPhkjzwAopf34qbW69-gJI_L6XHvrj6rQ4XSioJItJP_vXzBClVk1zhKFyrKan1c3jvZO2iUVEhD0myTvAdSsQZiWMGwtojXDGhTsL7cPFMy1NM_sxFCS4T05Tek6Lw",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/105897668670611722156/photos\"\u003eTim Poley\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAMuS2jwBQsoRKXzNO5ZrmepY6jL-qrIHDFQsjJDosAwQkb_M9LNDJDTGM3VJ7xC56UncndpLsY9ulyjyZKxdChpR2bLWbOxOYWQFfqBHFIn8QTDFKkkwCYt7ppd4UXNsnEhCJ1J1QZfX2_BimtiivEeBDGhSM-q0-N349xP6HjjmNsZzLin__uQ",
+            "width" : 4032
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/115750619480548671826/photos\"\u003eCarl Casbolt\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAL8TZjnJvcJHTSH9rYLp0W9nil_yABEIIDpXwerJFM4Z5jpYd_D_OCgkouBskItG45t_YtkH6ZH6jBHq1TdRtn14DsrQRTauaeoWT5nXCstO-VGWpPQjLGtp4-is90nenEhALcncdITSW8hFZNJqrJ8G5GhS7M718m-1dLqT1AxkyhvYjZZgvTg",
+            "width" : 4032
+         },
+         {
+            "height" : 2952,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102983664115085874451/photos\"\u003eZachary Crane\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAibMMfJNraLf8crpphsLwXa76rI_LcZ8ngDVXyifcEPxAqIrADTt8_mn6f9vpaMgesTIE7oQPK0XKk61ICTuSLcT5rxrnNxiuJbxgCbfloVatp_dgKQg5zmOggWT0DIzmEhA4MgsBkNPd6HE3Duy8yeg3GhTiPeOWDDpz6GR95mdfY34r0DAW8w",
+            "width" : 5248
+         },
+         {
+            "height" : 1836,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/110193698718825568465/photos\"\u003eSusan Atkinson\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAqVlNi4aVN7BfVNDlkeJIMkelZhhKcOdtelsbWFL0EWRy3_VPZBBI7Gnljw_pK1JuuKIeilp6jaZESEK0J9HyQHi7GqzSyLthTTVVF3xaaU4Nc2Ay9UTuCE-JKCOTKQEOEhBwytfGea5gSSv6NIPlvFQ9GhSlID7oZavXKlsbLYeQs-XSotRWRg",
+            "width" : 3264
+         },
+         {
+            "height" : 3036,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112984055445216588579/photos\"\u003eIce Cream Man\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAezZFknF0ncfWTNQ13NAtmYf8_DeuWKw0rGerSvtaMKqX31gSit40HN8rO5VA0ieDlbwykIkyVS97gMm4zlLlJ7NE-KxLJ-whi9GFeFVLftwVMMeH35aufxcklHJcgIqHEhArRxDCmXlOU2_Cl7az9GtNGhT6XMepv98u7TIS0D7SSJmgzeHBfw",
+            "width" : 4048
+         },
+         {
+            "height" : 3024,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112932880817781974502/photos\"\u003eJessica Schwie\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAd0hw4c_ESJuEL7b4TxBc8Q88fJ8AlTR0SwZxu5z1XrmHGgs9XKZ6hlbz5xrSvz7hAjD7dLitELkFPT-9EJZ4M4H2NoikPhUQFkUqLy9uTP3opHvS6UDpF-Vx0Vy91DWMEhAJouzbI5J-yRgRLDqn95ZFGhSu8JZ3Fo0qk8MW4XlIZkGElg-xrA",
+            "width" : 4032
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/103581403650190004723/photos\"\u003eGavin Ketchen\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAZoUFWAgvaxeQzYJHRrzO0rQR3mXcOEmsYYa_decvjgBdzHA3VEKdjdgki3JQj8D9qA9A4lNr3l06FJSxE-QCgdFeUb1z9qpD9Ycn1L4Jc70CVXClbR5C2LqP4ZSKgw1xEhCQdVZC1sWX16d0OOxakQXAGhSAGIlVxOm-BZRirhO053IXQ8YjBw",
+            "width" : 3264
+         }
+      ],
+      "place_id" : "ChIJ4bwEPIBw44kRs7STmn977tE",
+      "rating" : 4.5,
+      "reference" : "CmRSAAAA-0GokMrQTJdPDL80Hk2_YbAje-_romb3ROeo7t9W7zl9QWVk6tvori1_gPe4Xuc9ihtSadHEaut-kW40Fc12stmHkWM1W2DCCPCub7DAADGlnDe6tZnTb0zXbp0KgDpJEhCStOl6pbSREm9WK2Y1cgXEGhQQaN0rZ6Bh-9iCN1hv_BGlNmiPow",
+      "reviews" : [
+         {
+            "author_name" : "M R",
+            "author_url" : "https://www.google.com/maps/contrib/108955353036896875224/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-Qqr0zcZivPo/AAAAAAAAAAI/AAAAAAAAAxs/6SddgsKgzm4/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "3 months ago",
+            "text" : "Absolutely a great time!   We went on a cold and freezing rain December day just before Christmas and still had a wonderful time.  The museum is interesting if a bit sparse on actual historic items, but the active portraits and holographic actors make up for it.  They do have the only remaining tea chest from the Tea Party.  The period actors were thoroughly enjoyable and engaging.  And Abigail's Tea Room was the perfect treat on a 33 degree day after being outside in the sleet.  Spent 6 days in Boston and this was the highlight of the trip...much better than many other attractions in the city.",
+            "time" : 1514085335
+         },
+         {
+            "author_name" : "Nicole Sargent",
+            "author_url" : "https://www.google.com/maps/contrib/104659943031837004089/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-hXo9J4Wb20k/AAAAAAAAAAI/AAAAAAAAAPA/RI4xwqEL6Xs/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "I came here with my aunt and uncle who were visiting from New York. Part of the experience is inside and part of it is outside on the boat, so I'd recommend not going in the rain like we did. However the experience overall was really fun, the cast members were really authentic and it was a fun way to learn about the Boston Tea Party. The gift shop was also awesome, had tons of tea related items which as someone who really enjoys tea I appreciated. I think the entrance fee was about $25  but there's usually a Groupon for it.",
+            "time" : 1518722665
+         },
+         {
+            "author_name" : "Amanda McCall",
+            "author_url" : "https://www.google.com/maps/contrib/103733787538901357970/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-6A_WTa8p60w/AAAAAAAAAAI/AAAAAAAAHB4/gZREcw5cGCg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "3 months ago",
+            "text" : "Reenactment  of the Boston Tea Party.  Staff were friendly and beautifully dressed.  They were charming and knowledgeable. \n\nWe had a light lunch and bottomless tea. The scones were a little dry but they were tasty nevertheless. Thanksgiving sandwich was to die for. Really great. \n\nThe bottomless tea meant you could try all five types of tea that were tipped into the harbor during the protest. Our server was very knowledgeable on the subject and gave us some great context of the teas, who would be drinking them and quality tasting notes. \n\nThere were fun games on the table for people to play. So one could conceivably spend a couple of hours chilling out in the atmosphere. \n\nWe didn't have time to do the whole tour, but we could hear it occasionally, and it sounded like fun. \n\nRecommended.",
+            "time" : 1511816510
+         },
+         {
+            "author_name" : "Smittie Smith",
+            "author_url" : "https://www.google.com/maps/contrib/110779250345440506223/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-5IwSvd6PtII/AAAAAAAAAAI/AAAAAAAAFgU/GztO6sJcDCs/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 4,
+            "relative_time_description" : "a month ago",
+            "text" : "This was a fun and informative experience. The guided tour cast takes the group through a re-enactment of the Boston tea as they explain the history of the event. The tour cast plays their parts well and do a good job of drawing those in the tour group into the experience. Especially good for children but I'm a middle aged male and I enjoyed it as well.",
+            "time" : 1517095246
+         },
+         {
+            "author_name" : "Valerio Romano",
+            "author_url" : "https://www.google.com/maps/contrib/110422430876343996583/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh4.googleusercontent.com/-srpwKNYY064/AAAAAAAAAAI/AAAAAAAAcDo/PwY6f-DfHWM/s128-c0x00000000-cc-rp-mo-ba2/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "3 weeks ago",
+            "text" : "This place was great.  The characters and the place itself made you feel like you were in an important part of history.  My wife, myself, my 9 year old and my 7 year old all had a great time.  This place is lots of fun.",
+            "time" : 1519727951
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15127163986368509107",
+      "utc_offset" : -240,
+      "vicinity" : "306 Congress Street, Boston",
+      "website" : "https://www.bostonteapartyship.com/"
+   },
+   "status" : "OK"
+}

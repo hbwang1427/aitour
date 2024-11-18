@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1331",
+            "short_name" : "1331",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "复兴中路",
+            "short_name" : "复兴中路",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "徐汇区",
+            "short_name" : "徐汇区",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "上海市",
+            "short_name" : "上海市",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e上海市\u003c/span\u003e\u003cspan class=\"locality\"\u003e徐汇区\u003c/span\u003e\u003cspan class=\"street-address\"\u003e复兴中路1331号\u003c/span\u003e",
+      "formatted_address" : "中国上海市徐汇区复兴中路1331号",
+      "formatted_phone_number" : "021 6431 6216",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.2112388,
+            "lng" : 121.4526457
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.2126275302915,
+               "lng" : 121.4539796802915
+            },
+            "southwest" : {
+               "lat" : 31.2099295697085,
+               "lng" : 121.4512817197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "a25ebdb5734dcf9990b25371624b1014ec322e46",
+      "international_phone_number" : "+86 21 6431 6216",
+      "name" : "140平方米画廊",
+      "place_id" : "ChIJJzYZua56sjURmV3FLbAzONQ",
+      "reference" : "CmRSAAAAtdhhRYG26LhAeyO516VGfP-JNJgutxrL6031kTiVjpK4_iO96yIJPR4FyDdC1WMXZ0_fKj0Ioq4NW7xcbr8--U73BUJ3rWlyZXhjUjXkFrKJb2GBFdFCdjHpWodIR45GEhBvqf_HrljKVKEeg7ByIaDWGhRmML2lGU0X7csDUORMEz7XKB9s4A",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15292029366511689113",
+      "utc_offset" : 480,
+      "vicinity" : "徐汇区复兴中路1331号"
+   },
+   "status" : "OK"
+}

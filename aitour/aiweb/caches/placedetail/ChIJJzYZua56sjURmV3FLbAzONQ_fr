@@ -1,0 +1,63 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "1331",
+            "short_name" : "1331",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Fuxing Middle Road",
+            "short_name" : "Fuxing Middle Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Xuhui Qu",
+            "short_name" : "Xuhui Qu",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Shanghai Shi",
+            "short_name" : "Shanghai Shi",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "Chine",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e1331 Fuxing Middle Rd\u003c/span\u003e, \u003cspan class=\"locality\"\u003eXuhui Qu\u003c/span\u003e, \u003cspan class=\"region\"\u003eShanghai Shi\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eChine\u003c/span\u003e",
+      "formatted_address" : "1331 Fuxing Middle Rd, Xuhui Qu, Shanghai Shi, Chine",
+      "formatted_phone_number" : "021 6431 6216",
+      "geometry" : {
+         "location" : {
+            "lat" : 31.2112388,
+            "lng" : 121.4526457
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 31.2126275302915,
+               "lng" : 121.4539796802915
+            },
+            "southwest" : {
+               "lat" : 31.2099295697085,
+               "lng" : 121.4512817197085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "a25ebdb5734dcf9990b25371624b1014ec322e46",
+      "international_phone_number" : "+86 21 6431 6216",
+      "name" : "140平方米画廊",
+      "place_id" : "ChIJJzYZua56sjURmV3FLbAzONQ",
+      "reference" : "CmRSAAAAOsnqci1fCUp5NONOjzyzCRIcs0Fx9JNNSxldpxyiRpGAsHwhzOoy2xW8uuJ8m-rgD4nFQZjyYEa120vXNe40kEosFCGml0Vz9XtJ7o_0MpXNrz2TpI4odT_RbLINPfi3EhDt4GB71-tn4hNILh_lNk47GhQNwpt0exnjCjjAhjobPg1x2vllNg",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=15292029366511689113",
+      "utc_offset" : 480,
+      "vicinity" : "1331 Fuxing Middle Road, Xuhui"
+   },
+   "status" : "OK"
+}

@@ -1,0 +1,61 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "望江路",
+            "short_name" : "望江路",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "靖江市",
+            "short_name" : "靖江市",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "泰州市",
+            "short_name" : "泰州市",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "江苏省",
+            "short_name" : "江苏省",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "中国",
+            "short_name" : "CN",
+            "types" : [ "country", "political" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"country-name\"\u003e中国\u003c/span\u003e\u003cspan class=\"region\"\u003e江苏省\u003c/span\u003e\u003cspan class=\"locality\"\u003e泰州市\u003c/span\u003e\u003cspan class=\"extended-address\"\u003e靖江市\u003c/span\u003e\u003cspan class=\"street-address\"\u003e望江路\u003c/span\u003e",
+      "formatted_address" : "中国江苏省泰州市靖江市望江路",
+      "geometry" : {
+         "location" : {
+            "lat" : 32.0616963,
+            "lng" : 120.3031427
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 32.0630843302915,
+               "lng" : 120.3045172302915
+            },
+            "southwest" : {
+               "lat" : 32.0603863697085,
+               "lng" : 120.3018192697085
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+      "id" : "6f63cecffab9934d24830e30f16aeb6073fbe9ea",
+      "name" : "孤山镇文化中心",
+      "place_id" : "ChIJDfibzABXsTURbPPAmM6aVZY",
+      "reference" : "CmRSAAAAEM5pn8bgbKy2rUtnFgLjIOTqaYxwzydilH58wpKVjX3hqsEiG6ph7n_vsHWUBwuzBm6AB-9RULZIl6pBfZvN17p3esa_DHonrOi7LGGM6USwegKFJr25QtJfrbYHIGnOEhCEtRp7tBM4bMXzeMueBBG5GhQ7RXwGFZQTVBfpPS0WXqNPDuVSLQ",
+      "scope" : "GOOGLE",
+      "types" : [ "museum", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=10832734690826318700",
+      "utc_offset" : 480,
+      "vicinity" : "泰州市靖江市望江路"
+   },
+   "status" : "OK"
+}
